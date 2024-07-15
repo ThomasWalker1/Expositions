@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import einops
 from einops.layers.torch import Rearrange
+from typing import Tuple
 
 class Autoencoder(nn.Module):
     def __init__(self, latent_dim_size: int, hidden_dim_size: int):
