@@ -1,0 +1,9 @@
+CNN 1: Test Accuracy 0.992
+CNN 2: Test Accuracy 0.984
+CNN 3: Test Accuracy 0.96
+CNN 4: Test Accuracy 0.968
+CNN 5: Test Accuracy 0.984
+CNN 6: Test Accuracy 0.944
+CNN 7: Test Accuracy 0.992
+CNN 8: Test Accuracy 0.96
+CNN 9: Test Accuracy 0.968
