@@ -2,9 +2,6 @@ import torch as t
 from torch import nn
 import einops
 from einops.layers.torch import Rearrange
-from tqdm import tqdm
-from torchvision import datasets, transforms
-from torch.utils.data import DataLoader, Dataset, Subset
 import numpy as np
 from typing import Tuple
 
@@ -17,13 +14,13 @@ class TiedWeightsAutoencoder(nn.Module):
         self.feat_dim=feat_dim
         self.bias = bias
 
-        sf = 1/ p.sqrt(in_features)
+        sf=1/np.sqrt(in_features)
 
-        weight = sf * (2 * t.rand(feat_dim, in_features) - 1)
+        weight=sf*(2*t.rand(feat_dim,in_features)-1)
         self.weight = nn.Parameter(weight)
 
         if bias:
-            bias = sf * (2 * t.rand(feat_dim,) - 1)
+            bias=sf*(2*t.rand(feat_dim,)-1)
             self.bias = nn.Parameter(bias)
         else:
             self.bias = None
@@ -33,16 +30,9 @@ class TiedWeightsAutoencoder(nn.Module):
         if self.bias is not None:
             c = (einops.einsum(x, w, "b in_feats, hid_feats in_feats -> b hid_feats")+self.bias).relu()
         else:
-            #c = (einops.einsum(x, self.weight / t.clamp(norms, 1e-8)[:, None], "b in_feats, hid_feats in_feats -> b hid_feats")).relu()
             c = (einops.einsum(x, w, "b in_feats, hid_feats in_feats -> b hid_feats")).relu()
-            #c=t.clamp(c,max=1)
-            c=c/t.norm(c,p=2,keepdim=True).pow(0.5)
-        #x_hat=einops.einsum(self.weight / t.clamp(norms, 1e-8)[:, None],c,"hid_feats in_feats, b hid_feats -> b in_feats")
         x_hat=einops.einsum(w,c,"hid_feats in_feats, b hid_feats -> b in_feats")
         return x_hat,c
-
-    def extra_repr(self) -> str:
-        return f"in_features={self.in_features}, out_features={self.feat_dim}, bias={self.bias is not None}"
     
 class Scale(nn.Module):
     def forward(self, x: t.Tensor) -> t.Tensor:
@@ -62,7 +52,6 @@ class Autoencoder(nn.Module):
             nn.Linear(7 * 7 * 32, hidden_dim_size),
             nn.ReLU(),
             nn.Linear(hidden_dim_size, latent_dim_size),
-            Scale()
         )
         self.decoder = nn.Sequential(
             nn.Linear(latent_dim_size, hidden_dim_size),
@@ -111,10 +100,10 @@ class VAE(nn.Module):
         )
 
     def sample_latent_vector(self, x: t.Tensor) -> Tuple[t.Tensor, t.Tensor, t.Tensor]:
-        mu, logsigma = self.encoder(x)
-        sigma = t.exp(logsigma)
-        z = mu + sigma * t.randn_like(mu)
-        return z, mu, logsigma
+        mu,logsigma=self.encoder(x)
+        sigma=t.exp(logsigma)
+        z=mu+sigma*t.randn_like(mu)
+        return z,mu,logsigma
 
     def forward(self, x: t.Tensor) -> Tuple[t.Tensor, t.Tensor, t.Tensor]:
         z, mu, logsigma = self.sample_latent_vector(x)
@@ -139,7 +128,6 @@ class MLP(nn.Module):
         x=self.hidden_layers(x)
         x=self.output_layer(x)
         return x
-
 
 # Loss functions
 
