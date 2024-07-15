@@ -7,3 +7,5 @@ CNN 6: Test Accuracy 0.944
 CNN 7: Test Accuracy 0.992
 CNN 8: Test Accuracy 0.96
 CNN 9: Test Accuracy 0.968
+CNN 11: Test Accuracy 1.0
+CNN 10: Test Accuracy 0.96
