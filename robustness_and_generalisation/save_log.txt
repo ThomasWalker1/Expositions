@@ -1,0 +1,3 @@
+initialization_scale=8.0
+memorised:step=2001,train_accuracy=0.996,test_accuracy=0.177
+generalised:step=55361,train_accuracy=1.0,test_accuracy=0.853
