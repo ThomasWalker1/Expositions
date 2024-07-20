@@ -1,0 +1,54 @@
+New York City is part of United States
+New York City is in the country of United States
+Rio de Janeiro is part of Brazil
+Rio de Janeiro is in the country of Brazil
+Buenos Aires is part of Argentina
+Buenos Aires is in the country of Argentina
+Mexico City is part of Mexico
+Mexico City is in the country of Mexico
+São Paulo is part of Brazil
+São Paulo is in the country of Brazil
+Los Angeles is part of United States
+Los Angeles is in the country of United States
+Saint Petersburg is part of Russia
+Saint Petersburg is in the country of Russia
+San Francisco is part of United States
+San Francisco is in the country of United States
+Ho Chi Minh City is part of Vietnam
+Ho Chi Minh City is in the country of Vietnam
+Kuala Lumpur is part of Malaysia
+Kuala Lumpur is in the country of Malaysia
+Abu Dhabi is part of United Arab Emirates
+Abu Dhabi is in the country of United Arab Emirates
+Cape Town is part of South Africa
+Cape Town is in the country of South Africa
+New Delhi is part of India
+New Delhi is in the country of India
+Las Vegas is part of United States
+Las Vegas is in the country of United States
+Hong Kong is part of China
+Hong Kong is in the country of China
+Tel Aviv is part of Israel
+Tel Aviv is in the country of Israel
+Johannesburg is part of South Africa
+Johannesburg is in the country of South Africa
+Santo Domingo is part of Dominican Republic
+Santo Domingo is in the country of Dominican Republic
+Port-au-Prince is part of Haiti
+Port-au-Prince is in the country of Haiti
+Santiago de Chile is part of Chile
+Santiago de Chile is in the country of Chile
+Panama City is part of Panama
+Panama City is in the country of Panama
+Siem Reap is part of Cambodia
+Siem Reap is in the country of Cambodia
+Casablanca is part of Morocco
+Casablanca is in the country of Morocco
+San Juan is part of Puerto Rico
+San Juan is in the country of Puerto Rico
+Costa Rica is part of San José
+Costa Rica is in the country of San José
+Addis Ababa is part of Ethiopia
+Addis Ababa is in the country of Ethiopia
+Punta Cana is part of Dominican Republic
+Punta Cana is in the country of Dominican Republic

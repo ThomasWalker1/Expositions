@@ -1,0 +1,38 @@
+lawyer
+secretary
+fashion designer
+journalist
+truck driver
+mechanic
+florist
+farmer
+baker
+doctor
+pilot
+salesperson
+musician
+chef
+firefighter
+trainer
+artist
+waitress
+athlete
+barber
+scientist
+librarian
+software engineer
+historian
+surgeon
+teacher
+photographer
+researcher
+waiter
+hairdresser
+insurance agent
+pharmacist
+student
+soldier
+painter
+flight attendant
+accountant
+nurse

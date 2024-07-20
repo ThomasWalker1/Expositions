@@ -1,0 +1,596 @@
+Alphabet's CEO is
+The CEO of Alphabet is
+Tesla's CEO is
+The CEO of Tesla is
+NVIDIA's CEO is
+The CEO of NVIDIA is
+Meta's CEO is
+The CEO of Meta is
+China Construction Bank's CEO is
+The CEO of China Construction Bank is
+Alibaba's CEO is
+The CEO of Alibaba is
+Goldman Sachs's CEO is
+The CEO of Goldman Sachs is
+Nasdaq's CEO is
+The CEO of Nasdaq is
+Apple's CEO is
+The CEO of Apple is
+Cisco Systems's CEO is
+The CEO of Cisco Systems is
+Samsung Electronics's CEO is
+The CEO of Samsung Electronics is
+Microsoft's CEO is
+The CEO of Microsoft is
+Huawei's CEO is
+The CEO of Huawei is
+Google's CEO is
+The CEO of Google is
+Intel's CEO is
+The CEO of Intel is
+The Walt Disney Company's CEO is
+The CEO of The Walt Disney Company is
+Nokia's CEO is
+The CEO of Nokia is
+FC Barcelona's CEO is
+The CEO of FC Barcelona is
+Amazon's CEO is
+The CEO of Amazon is
+IBM's CEO is
+The CEO of IBM is
+Netflix's CEO is
+The CEO of Netflix is
+Uber Technology's CEO is
+The CEO of Uber Technology is
+McDonald’s's CEO is
+The CEO of McDonald’s is
+Hewlett-Packard's CEO is
+The CEO of Hewlett-Packard is
+East Japan Railway Company's CEO is
+The CEO of East Japan Railway Company is
+Nintendo's CEO is
+The CEO of Nintendo is
+Twinkl's CEO is
+The CEO of Twinkl is
+Siemens's CEO is
+The CEO of Siemens is
+Tesla, Inc.'s CEO is
+The CEO of Tesla, Inc. is
+The Coca-Cola Company's CEO is
+The CEO of The Coca-Cola Company is
+Meta Platforms's CEO is
+The CEO of Meta Platforms is
+Sony's CEO is
+The CEO of Sony is
+Koninklijke Philips NV's CEO is
+The CEO of Koninklijke Philips NV is
+Dell Inc.'s CEO is
+The CEO of Dell Inc. is
+Volkswagen Group's CEO is
+The CEO of Volkswagen Group is
+Wikimedia Foundation's CEO is
+The CEO of Wikimedia Foundation is
+Boeing's CEO is
+The CEO of Boeing is
+AT&T's CEO is
+The CEO of AT&T is
+International Monetary Fund's CEO is
+The CEO of International Monetary Fund is
+Deutsche Telekom's CEO is
+The CEO of Deutsche Telekom is
+Ford Motor Company's CEO is
+The CEO of Ford Motor Company is
+Walmart's CEO is
+The CEO of Walmart is
+Electronic Arts's CEO is
+The CEO of Electronic Arts is
+Renault's CEO is
+The CEO of Renault is
+Delta Air Lines's CEO is
+The CEO of Delta Air Lines is
+Paris-Charles de Gaulle Airport's CEO is
+The CEO of Paris-Charles de Gaulle Airport is
+Deutsche Bank AG's CEO is
+The CEO of Deutsche Bank AG is
+TotalEnergies's CEO is
+The CEO of TotalEnergies is
+Robert Bosch's CEO is
+The CEO of Robert Bosch is
+Commerzbank AG's CEO is
+The CEO of Commerzbank AG is
+Orange's CEO is
+The CEO of Orange is
+Škoda Auto's CEO is
+The CEO of Škoda Auto is
+Meise Botanic Garden's CEO is
+The CEO of Meise Botanic Garden is
+Foxconn's CEO is
+The CEO of Foxconn is
+Mercedes-Benz Group's CEO is
+The CEO of Mercedes-Benz Group is
+Ubisoft's CEO is
+The CEO of Ubisoft is
+LVMH's CEO is
+The CEO of LVMH is
+Panasonic Corporation's CEO is
+The CEO of Panasonic Corporation is
+General Electric's CEO is
+The CEO of General Electric is
+Unilever's CEO is
+The CEO of Unilever is
+Adobe's CEO is
+The CEO of Adobe is
+General Motors's CEO is
+The CEO of General Motors is
+Procter & Gamble's CEO is
+The CEO of Procter & Gamble is
+Auckland Airport's CEO is
+The CEO of Auckland Airport is
+eBay's CEO is
+The CEO of eBay is
+Lufthansa's CEO is
+The CEO of Lufthansa is
+BMW's CEO is
+The CEO of BMW is
+Johnson & Johnson's CEO is
+The CEO of Johnson & Johnson is
+Orly Airport's CEO is
+The CEO of Orly Airport is
+PepsiCo's CEO is
+The CEO of PepsiCo is
+National Institutes of Health's CEO is
+The CEO of National Institutes of Health is
+Shell's CEO is
+The CEO of Shell is
+Radio Free Europe/Radio Liberty's CEO is
+The CEO of Radio Free Europe/Radio Liberty is
+Yandex's CEO is
+The CEO of Yandex is
+Starbucks's CEO is
+The CEO of Starbucks is
+ExxonMobil's CEO is
+The CEO of ExxonMobil is
+Bank of America's CEO is
+The CEO of Bank of America is
+Bayer's CEO is
+The CEO of Bayer is
+ČEZ Group's CEO is
+The CEO of ČEZ Group is
+Gazprom's CEO is
+The CEO of Gazprom is
+Pfizer's CEO is
+The CEO of Pfizer is
+American Airlines's CEO is
+The CEO of American Airlines is
+Deutsche Post AG's CEO is
+The CEO of Deutsche Post AG is
+Nvidia's CEO is
+The CEO of Nvidia is
+DuPont's CEO is
+The CEO of DuPont is
+Porsche's CEO is
+The CEO of Porsche is
+BASF's CEO is
+The CEO of BASF is
+AMD's CEO is
+The CEO of AMD is
+Nissan's CEO is
+The CEO of Nissan is
+Kodak's CEO is
+The CEO of Kodak is
+Nike's CEO is
+The CEO of Nike is
+Vinci's CEO is
+The CEO of Vinci is
+RWE's CEO is
+The CEO of RWE is
+Alphabet Inc.'s CEO is
+The CEO of Alphabet Inc. is
+West Japan Railway Company's CEO is
+The CEO of West Japan Railway Company is
+Lockheed Martin's CEO is
+The CEO of Lockheed Martin is
+British Airways's CEO is
+The CEO of British Airways is
+American Library Association's CEO is
+The CEO of American Library Association is
+Czech Airlines's CEO is
+The CEO of Czech Airlines is
+Southwest Airlines's CEO is
+The CEO of Southwest Airlines is
+HSBC's CEO is
+The CEO of HSBC is
+Warner Bros.'s CEO is
+The CEO of Warner Bros. is
+Verizon's CEO is
+The CEO of Verizon is
+Agrofert's CEO is
+The CEO of Agrofert is
+Berkshire Hathaway's CEO is
+The CEO of Berkshire Hathaway is
+JPMorgan Chase's CEO is
+The CEO of JPMorgan Chase is
+L’Oréal's CEO is
+The CEO of L’Oréal is
+Russian Railways's CEO is
+The CEO of Russian Railways is
+Citigroup's CEO is
+The CEO of Citigroup is
+Society of Jesus's CEO is
+The CEO of Society of Jesus is
+Xiaomi's CEO is
+The CEO of Xiaomi is
+Central Japan Railway Company's CEO is
+The CEO of Central Japan Railway Company is
+Northrop Grumman's CEO is
+The CEO of Northrop Grumman is
+Hewlett Packard Enterprise's CEO is
+The CEO of Hewlett Packard Enterprise is
+Toulouse-Blagnac's CEO is
+The CEO of Toulouse-Blagnac is
+Universal Music Group's CEO is
+The CEO of Universal Music Group is
+Tencent's CEO is
+The CEO of Tencent is
+Salesforce's CEO is
+The CEO of Salesforce is
+Caterpillar Inc.'s CEO is
+The CEO of Caterpillar Inc. is
+United Parcel Service's CEO is
+The CEO of United Parcel Service is
+PayPal's CEO is
+The CEO of PayPal is
+Toyota's CEO is
+The CEO of Toyota is
+Vodafone's CEO is
+The CEO of Vodafone is
+SoftBank Group's CEO is
+The CEO of SoftBank Group is
+Air Liquide's CEO is
+The CEO of Air Liquide is
+Visa Inc.'s CEO is
+The CEO of Visa Inc. is
+Klinikum Ernst von Bergmann's CEO is
+The CEO of Klinikum Ernst von Bergmann is
+Air France's CEO is
+The CEO of Air France is
+Sanofi's CEO is
+The CEO of Sanofi is
+Goldman Sachs & Co. (US)'s CEO is
+The CEO of Goldman Sachs & Co. (US) is
+BP's CEO is
+The CEO of BP is
+Schneider Electric's CEO is
+The CEO of Schneider Electric is
+Continental AG's CEO is
+The CEO of Continental AG is
+Energetický a průmyslový holding's CEO is
+The CEO of Energetický a průmyslový holding is
+American Express's CEO is
+The CEO of American Express is
+Institute of Biological Sciences's CEO is
+The CEO of Institute of Biological Sciences is
+FedEx's CEO is
+The CEO of FedEx is
+General Dynamics's CEO is
+The CEO of General Dynamics is
+Warner Music Group's CEO is
+The CEO of Warner Music Group is
+BNP Paribas's CEO is
+The CEO of BNP Paribas is
+Juniper Networks's CEO is
+The CEO of Juniper Networks is
+Alliance '90/The Greens's CEO is
+The CEO of Alliance '90/The Greens is
+Audi's CEO is
+The CEO of Audi is
+U.S. Steel's CEO is
+The CEO of U.S. Steel is
+AstraZeneca's CEO is
+The CEO of AstraZeneca is
+Target Corporation's CEO is
+The CEO of Target Corporation is
+Česká spořitelna's CEO is
+The CEO of Česká spořitelna is
+STMicroelectronics's CEO is
+The CEO of STMicroelectronics is
+Brussels Airport's CEO is
+The CEO of Brussels Airport is
+Aspen Institute's CEO is
+The CEO of Aspen Institute is
+Christian Social Union of Bavaria's CEO is
+The CEO of Christian Social Union of Bavaria is
+World Wide Fund for Nature's CEO is
+The CEO of World Wide Fund for Nature is
+Morgan Stanley's CEO is
+The CEO of Morgan Stanley is
+Globcal International's CEO is
+The CEO of Globcal International is
+Abbott Laboratories's CEO is
+The CEO of Abbott Laboratories is
+Qualcomm Inc.'s CEO is
+The CEO of Qualcomm Inc. is
+Maersk's CEO is
+The CEO of Maersk is
+Bertelsmann's CEO is
+The CEO of Bertelsmann is
+University of Leeds's CEO is
+The CEO of University of Leeds is
+LinkedIn's CEO is
+The CEO of LinkedIn is
+Thales Group's CEO is
+The CEO of Thales Group is
+The Home Depot's CEO is
+The CEO of The Home Depot is
+Gilead Sciences's CEO is
+The CEO of Gilead Sciences is
+Wells Fargo's CEO is
+The CEO of Wells Fargo is
+Deere & Company's CEO is
+The CEO of Deere & Company is
+Saudi Aramco's CEO is
+The CEO of Saudi Aramco is
+Chevron Corporation's CEO is
+The CEO of Chevron Corporation is
+ArcelorMittal's CEO is
+The CEO of ArcelorMittal is
+HP Inc.'s CEO is
+The CEO of HP Inc. is
+Airbus Group's CEO is
+The CEO of Airbus Group is
+Accor's CEO is
+The CEO of Accor is
+Adidas AG's CEO is
+The CEO of Adidas AG is
+O2 Czech Republic's CEO is
+The CEO of O2 Czech Republic is
+Toshiba's CEO is
+The CEO of Toshiba is
+The Salvation Army's CEO is
+The CEO of The Salvation Army is
+The Lego Group's CEO is
+The CEO of The Lego Group is
+SAP's CEO is
+The CEO of SAP is
+Qantas's CEO is
+The CEO of Qantas is
+Électricité de France's CEO is
+The CEO of Électricité de France is
+Ericsson's CEO is
+The CEO of Ericsson is
+Major League Soccer's CEO is
+The CEO of Major League Soccer is
+Costco's CEO is
+The CEO of Costco is
+Merck & Co.'s CEO is
+The CEO of Merck & Co. is
+Airbus's CEO is
+The CEO of Airbus is
+Cloudflare's CEO is
+The CEO of Cloudflare is
+Allwyn International's CEO is
+The CEO of Allwyn International is
+Vivendi's CEO is
+The CEO of Vivendi is
+Mastercard's CEO is
+The CEO of Mastercard is
+Valeo's CEO is
+The CEO of Valeo is
+Naturschutzbund Deutschland's CEO is
+The CEO of Naturschutzbund Deutschland is
+British Council's CEO is
+The CEO of British Council is
+Philip Morris International's CEO is
+The CEO of Philip Morris International is
+Rheinmetall AG's CEO is
+The CEO of Rheinmetall AG is
+FC Bayern Munich's CEO is
+The CEO of FC Bayern Munich is
+Mapbox's CEO is
+The CEO of Mapbox is
+Alibaba Group's CEO is
+The CEO of Alibaba Group is
+České dráhy's CEO is
+The CEO of České dráhy is
+Activision Blizzard's CEO is
+The CEO of Activision Blizzard is
+KLM's CEO is
+The CEO of KLM is
+Comcast's CEO is
+The CEO of Comcast is
+DR's CEO is
+The CEO of DR is
+Paramount Global's CEO is
+The CEO of Paramount Global is
+Accenture's CEO is
+The CEO of Accenture is
+Channel One Russia's CEO is
+The CEO of Channel One Russia is
+AOL's CEO is
+The CEO of AOL is
+CVS Health's CEO is
+The CEO of CVS Health is
+SpaceX's CEO is
+The CEO of SpaceX is
+Finnair's CEO is
+The CEO of Finnair is
+Kroger's CEO is
+The CEO of Kroger is
+Colgate-Palmolive Company's CEO is
+The CEO of Colgate-Palmolive Company is
+ConocoPhillips's CEO is
+The CEO of ConocoPhillips is
+Lenovo's CEO is
+The CEO of Lenovo is
+Kering's CEO is
+The CEO of Kering is
+Honeywell International, Inc.'s CEO is
+The CEO of Honeywell International, Inc. is
+Viacom's CEO is
+The CEO of Viacom is
+Honda's CEO is
+The CEO of Honda is
+Sberbank of Russia's CEO is
+The CEO of Sberbank of Russia is
+Chartered Institute of Library and Information Professionals's CEO is
+The CEO of Chartered Institute of Library and Information Professionals is
+Kyushu Railway Company's CEO is
+The CEO of Kyushu Railway Company is
+Heineken's CEO is
+The CEO of Heineken is
+Amazon Web Services's CEO is
+The CEO of Amazon Web Services is
+Paramount Pictures's CEO is
+The CEO of Paramount Pictures is
+Nortel's CEO is
+The CEO of Nortel is
+Mondelez International's CEO is
+The CEO of Mondelez International is
+United Airlines's CEO is
+The CEO of United Airlines is
+Institute of Human and Social Sciences's CEO is
+The CEO of Institute of Human and Social Sciences is
+Ferrari S.p.A.'s CEO is
+The CEO of Ferrari S.p.A. is
+H&M's CEO is
+The CEO of H&M is
+Hokkaido Railway Company's CEO is
+The CEO of Hokkaido Railway Company is
+Dassault Systèmes's CEO is
+The CEO of Dassault Systèmes is
+Kimberly-Clark's CEO is
+The CEO of Kimberly-Clark is
+Eli Lilly and Company's CEO is
+The CEO of Eli Lilly and Company is
+Hitachi's CEO is
+The CEO of Hitachi is
+Škoda Transportation's CEO is
+The CEO of Škoda Transportation is
+Bristol-Myers Squibb's CEO is
+The CEO of Bristol-Myers Squibb is
+University of Gothenburg's CEO is
+The CEO of University of Gothenburg is
+Seagate Technology's CEO is
+The CEO of Seagate Technology is
+Lukoil's CEO is
+The CEO of Lukoil is
+Československá obchodní banka's CEO is
+The CEO of Československá obchodní banka is
+International Telecommunication Union's CEO is
+The CEO of International Telecommunication Union is
+Médecins Sans Frontières's CEO is
+The CEO of Médecins Sans Frontières is
+Capgemini's CEO is
+The CEO of Capgemini is
+GitHub's CEO is
+The CEO of GitHub is
+Netgear's CEO is
+The CEO of Netgear is
+ABB Group's CEO is
+The CEO of ABB Group is
+Komerční banka's CEO is
+The CEO of Komerční banka is
+Electrolux's CEO is
+The CEO of Electrolux is
+Bell Resources's CEO is
+The CEO of Bell Resources is
+TIM Group's CEO is
+The CEO of TIM Group is
+Novartis's CEO is
+The CEO of Novartis is
+Yum! Brands's CEO is
+The CEO of Yum! Brands is
+GlaxoSmithKline's CEO is
+The CEO of GlaxoSmithKline is
+Solvay's CEO is
+The CEO of Solvay is
+METRO AG's CEO is
+The CEO of METRO AG is
+Infineon Technologies's CEO is
+The CEO of Infineon Technologies is
+BlackRock's CEO is
+The CEO of BlackRock is
+Food and Agriculture Organization's CEO is
+The CEO of Food and Agriculture Organization is
+Simon & Schuster's CEO is
+The CEO of Simon & Schuster is
+Best Buy's CEO is
+The CEO of Best Buy is
+Humana's CEO is
+The CEO of Humana is
+GMV Innovating Solutions's CEO is
+The CEO of GMV Innovating Solutions is
+T-Mobile US's CEO is
+The CEO of T-Mobile US is
+FC Viktoria Köln's CEO is
+The CEO of FC Viktoria Köln is
+Broderbund's CEO is
+The CEO of Broderbund is
+Hasbro's CEO is
+The CEO of Hasbro is
+Hyundai Motor Company's CEO is
+The CEO of Hyundai Motor Company is
+Nederlandse Spoorwegen's CEO is
+The CEO of Nederlandse Spoorwegen is
+NBCUniversal's CEO is
+The CEO of NBCUniversal is
+Peterson Institute for International Economics's CEO is
+The CEO of Peterson Institute for International Economics is
+Orlen Unipetrol's CEO is
+The CEO of Orlen Unipetrol is
+Valve Corporation's CEO is
+The CEO of Valve Corporation is
+Tesco's CEO is
+The CEO of Tesco is
+TV Rain's CEO is
+The CEO of TV Rain is
+PricewaterhouseCoopers's CEO is
+The CEO of PricewaterhouseCoopers is
+UBS's CEO is
+The CEO of UBS is
+Opera Software's CEO is
+The CEO of Opera Software is
+Publicis's CEO is
+The CEO of Publicis is
+BT Group's CEO is
+The CEO of BT Group is
+Smartwings's CEO is
+The CEO of Smartwings is
+Cognizant's CEO is
+The CEO of Cognizant is
+BlackBerry's CEO is
+The CEO of BlackBerry is
+Wolters Kluwer's CEO is
+The CEO of Wolters Kluwer is
+Yle's CEO is
+The CEO of Yle is
+Biogen's CEO is
+The CEO of Biogen is
+Bethesda Softworks's CEO is
+The CEO of Bethesda Softworks is
+Carrefour Group's CEO is
+The CEO of Carrefour Group is
+Aeroflot's CEO is
+The CEO of Aeroflot is
+ICANN's CEO is
+The CEO of ICANN is
+AC Sparta Prague's CEO is
+The CEO of AC Sparta Prague is
+Dow Chemical Company's CEO is
+The CEO of Dow Chemical Company is
+Legrand's CEO is
+The CEO of Legrand is
+Institut de chimie's CEO is
+The CEO of Institut de chimie is
+Pinterest's CEO is
+The CEO of Pinterest is
+thyssenkrupp AG's CEO is
+The CEO of thyssenkrupp AG is
+Raytheon Company's CEO is
+The CEO of Raytheon Company is
+Fannie Mae's CEO is
+The CEO of Fannie Mae is
+Red Hat's CEO is
+The CEO of Red Hat is
+Vertex Pharmaceuticals's CEO is
+The CEO of Vertex Pharmaceuticals is

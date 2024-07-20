@@ -1,0 +1,1044 @@
+Platform Controller Hub was created by Intel
+Platform Controller Hub is a product of Intel
+Shahab-2 was created by Iran
+Shahab-2 is a product of Iran
+Infiniti QX was created by Nissan
+Infiniti QX is a product of Nissan
+iPhone 5 was created by Apple
+iPhone 5 is a product of Apple
+Wii Balance Board was created by Nintendo
+Wii Balance Board is a product of Nintendo
+Acura TL was created by Honda
+Acura TL is a product of Honda
+Lancia 037 was created by Fiat
+Lancia 037 is a product of Fiat
+Windows Server 2003 was created by Microsoft
+Windows Server 2003 is a product of Microsoft
+DualShock was created by Sony
+DualShock is a product of Sony
+Mac Pro was created by Apple
+Mac Pro is a product of Apple
+Game Boy Advance SP was created by Nintendo
+Game Boy Advance SP is a product of Nintendo
+Squad 51 was created by Dodge
+Squad 51 is a product of Dodge
+PGM-19 Jupiter was created by Chrysler
+PGM-19 Jupiter is a product of Chrysler
+Prince R380 was created by Nissan
+Prince R380 is a product of Nissan
+Monomail was created by Boeing
+Monomail is a product of Boeing
+Geo Metro was created by Suzuki
+Geo Metro is a product of Suzuki
+Shahab-1 was created by Iran
+Shahab-1 is a product of Iran
+PowerFlite was created by Chrysler
+PowerFlite is a product of Chrysler
+DC-3 was created by Douglas
+DC-3 is a product of Douglas
+Kindle Fire was created by Amazon
+Kindle Fire is a product of Amazon
+AGM-86 ALCM was created by Boeing
+AGM-86 ALCM is a product of Boeing
+Autobianchi Y10 was created by Fiat
+Autobianchi Y10 is a product of Fiat
+Mini E was created by BMW
+Mini E is a product of BMW
+Isetta was created by BMW
+Isetta is a product of BMW
+Datsun Sports was created by Nissan
+Datsun Sports is a product of Nissan
+Acura ILX was created by Honda
+Acura ILX is a product of Honda
+SteadyShot was created by Sony
+SteadyShot is a product of Sony
+SNES-CD was created by Nintendo
+SNES-CD is a product of Nintendo
+Ferrari 250 GTO was created by Fiat
+Ferrari 250 GTO is a product of Fiat
+Lancia Aprilia was created by Fiat
+Lancia Aprilia is a product of Fiat
+Windows Live Mail was created by Microsoft
+Windows Live Mail is a product of Microsoft
+Bluesmobile was created by Dodge
+Bluesmobile is a product of Dodge
+Bionz was created by Sony
+Bionz is a product of Sony
+AMC 35 was created by Renault
+AMC 35 is a product of Renault
+Acura ZDX was created by Honda
+Acura ZDX is a product of Honda
+Lancia Thema was created by Fiat
+Lancia Thema is a product of Fiat
+Acura EL was created by Honda
+Acura EL is a product of Honda
+Alfa Romeo Montreal was created by Fiat
+Alfa Romeo Montreal is a product of Fiat
+Acura MDX was created by Honda
+Acura MDX is a product of Honda
+Toyopet Master was created by Toyota
+Toyopet Master is a product of Toyota
+Xbox was created by Microsoft
+Xbox is a product of Microsoft
+Auto Avio Costruzioni 815 was created by Ferrari
+Auto Avio Costruzioni 815 is a product of Ferrari
+iPhone 4s was created by Apple
+iPhone 4s is a product of Apple
+Eagle Premier was created by Renault
+Eagle Premier is a product of Renault
+Dino was created by Ferrari
+Dino is a product of Ferrari
+iPod was created by Apple
+iPod is a product of Apple
+iPad Mini was created by Apple
+iPad Mini is a product of Apple
+AGM-69 SRAM was created by Boeing
+AGM-69 SRAM is a product of Boeing
+LGM-30 Minuteman was created by Boeing
+LGM-30 Minuteman is a product of Boeing
+iPod Mini was created by Apple
+iPod Mini is a product of Apple
+Alfa Romeo 6C was created by Fiat
+Alfa Romeo 6C is a product of Fiat
+AMR 35 was created by Renault
+AMR 35 is a product of Renault
+TorqueFlite was created by Chrysler
+TorqueFlite is a product of Chrysler
+System Controller Hub was created by Intel
+System Controller Hub is a product of Intel
+Alfa Romeo MiTo was created by Fiat
+Alfa Romeo MiTo is a product of Fiat
+MIM-3 Nike-Ajax was created by Douglas
+MIM-3 Nike-Ajax is a product of Douglas
+Color TV-Game was created by Nintendo
+Color TV-Game is a product of Nintendo
+Mini Hatch was created by BMW
+Mini Hatch is a product of BMW
+MessagePad was created by Apple
+MessagePad is a product of Apple
+GAM-87 Skybolt was created by Douglas
+GAM-87 Skybolt is a product of Douglas
+Lancia Musa was created by Fiat
+Lancia Musa is a product of Fiat
+F3D Skyknight was created by Douglas
+F3D Skyknight is a product of Douglas
+Dacia Sandero was created by Renault
+Dacia Sandero is a product of Renault
+Lancia Dedra was created by Fiat
+Lancia Dedra is a product of Fiat
+Acura RDX was created by Honda
+Acura RDX is a product of Honda
+Rolls-Royce Phantom was created by BMW
+Rolls-Royce Phantom is a product of BMW
+iPod shuffle was created by Apple
+iPod shuffle is a product of Apple
+Plymouth Prowler was created by Chrysler
+Plymouth Prowler is a product of Chrysler
+Eagle Medallion was created by Renault
+Eagle Medallion is a product of Renault
+Pontiac Firebird was created by Chevrolet
+Pontiac Firebird is a product of Chevrolet
+B-17 Flying Fortress was created by Boeing
+B-17 Flying Fortress is a product of Boeing
+Infiniti Q50 was created by Nissan
+Infiniti Q50 is a product of Nissan
+Dardo IFV was created by Fiat
+Dardo IFV is a product of Fiat
+Exmor was created by Sony
+Exmor is a product of Sony
+Windows 2000 was created by Microsoft
+Windows 2000 is a product of Microsoft
+Lumia series was created by Microsoft
+Lumia series is a product of Microsoft
+Alfa Romeo Brera was created by Fiat
+Alfa Romeo Brera is a product of Fiat
+B-29 Superfortress was created by Boeing
+B-29 Superfortress is a product of Boeing
+Pratt & Miller was created by Chevrolet
+Pratt & Miller is a product of Chevrolet
+SNES-CD was created by Sony
+SNES-CD is a product of Sony
+AMR 33 was created by Renault
+AMR 33 is a product of Renault
+CIM-10 Bomarc was created by Boeing
+CIM-10 Bomarc is a product of Boeing
+Lancia Ypsilon was created by Fiat
+Lancia Ypsilon is a product of Fiat
+Acura Legend was created by Honda
+Acura Legend is a product of Honda
+Lancia Gamma was created by Fiat
+Lancia Gamma is a product of Fiat
+PGM-17 Thor was created by Douglas
+PGM-17 Thor is a product of Douglas
+N-Gage QD was created by Nokia
+N-Gage QD is a product of Nokia
+Dino was created by Fiat
+Dino is a product of Fiat
+Alpine A106 was created by Renault
+Alpine A106 is a product of Renault
+iPhone 3GS was created by Apple
+iPhone 3GS is a product of Apple
+iPad was created by Apple
+iPad is a product of Apple
+Acura CL was created by Honda
+Acura CL is a product of Honda
+Windows Phone 8.1 was created by Microsoft
+Windows Phone 8.1 is a product of Microsoft
+B-47 Stratojet was created by Boeing
+B-47 Stratojet is a product of Boeing
+C-40 Clipper was created by Boeing
+C-40 Clipper is a product of Boeing
+Alfa Romeo 155 was created by Fiat
+Alfa Romeo 155 is a product of Fiat
+YF-22 was created by Boeing
+YF-22 is a product of Boeing
+iPhone 1 was created by Apple
+iPhone 1 is a product of Apple
+CineAlta was created by Sony
+CineAlta is a product of Sony
+Plymouth Valiant was created by Chrysler
+Plymouth Valiant is a product of Chrysler
+Autobianchi A112 was created by Fiat
+Autobianchi A112 is a product of Fiat
+PGM-11 Redstone was created by Chrysler
+PGM-11 Redstone is a product of Chrysler
+RC-135 was created by Boeing
+RC-135 is a product of Boeing
+Chromecast was created by Google
+Chromecast is a product of Google
+Chromebook Pixel was created by Google
+Chromebook Pixel is a product of Google
+Sileighty was created by Nissan
+Sileighty is a product of Nissan
+Kenmore Appliances was created by Sears
+Kenmore Appliances is a product of Sears
+LGA 775 was created by Intel
+LGA 775 is a product of Intel
+Model M keyboard was created by IBM
+Model M keyboard is a product of IBM
+Scion tC was created by Toyota
+Scion tC is a product of Toyota
+iPad 4 was created by Apple
+iPad 4 is a product of Apple
+Shahab-4 was created by Iran
+Shahab-4 is a product of Iran
+MacBook Air was created by Apple
+MacBook Air is a product of Apple
+Hwasong-5 was created by Iran
+Hwasong-5 is a product of Iran
+Jeep Grand Cherokee was created by Chrysler
+Jeep Grand Cherokee is a product of Chrysler
+Game & Watch was created by Nintendo
+Game & Watch is a product of Nintendo
+Wii U was created by Nintendo
+Wii U is a product of Nintendo
+Lancia Flavia was created by Fiat
+Lancia Flavia is a product of Fiat
+Game Boy Advance was created by Nintendo
+Game Boy Advance is a product of Nintendo
+DC-9 was created by Douglas
+DC-9 is a product of Douglas
+Fateh-110 was created by Iran
+Fateh-110 is a product of Iran
+Windows Vista was created by Microsoft
+Windows Vista is a product of Microsoft
+Lancia Lybra was created by Fiat
+Lancia Lybra is a product of Fiat
+C-135 Stratolifter was created by Boeing
+C-135 Stratolifter is a product of Boeing
+Nasr-1 was created by Iran
+Nasr-1 is a product of Iran
+iPhone was created by Apple
+iPhone is a product of Apple
+StyleWriter was created by Apple
+StyleWriter is a product of Apple
+Infiniti JX was created by Nissan
+Infiniti JX is a product of Nissan
+DeltaWing was created by Nissan
+DeltaWing is a product of Nissan
+iPod Touch was created by Apple
+iPod Touch is a product of Apple
+Alfa Romeo SZ was created by Fiat
+Alfa Romeo SZ is a product of Fiat
+iISO flash shoe was created by Sony
+iISO flash shoe is a product of Sony
+VTEC was created by Honda
+VTEC is a product of Honda
+Xeon was created by Intel
+Xeon is a product of Intel
+Windows 7 was created by Microsoft
+Windows 7 is a product of Microsoft
+EA-18G Growler was created by Boeing
+EA-18G Growler is a product of Boeing
+Amiibo was created by Nintendo
+Amiibo is a product of Nintendo
+Fully Integrated Robotised Engine was created by Fiat
+Fully Integrated Robotised Engine is a product of Fiat
+MacBook Pro was created by Apple
+MacBook Pro is a product of Apple
+Alfa Romeo 75 was created by Fiat
+Alfa Romeo 75 is a product of Fiat
+Jeep Wrangler was created by Chrysler
+Jeep Wrangler is a product of Chrysler
+Alpine A108 was created by Renault
+Alpine A108 is a product of Renault
+Game Boy Micro was created by Nintendo
+Game Boy Micro is a product of Nintendo
+PlayStation Eye was created by Sony
+PlayStation Eye is a product of Sony
+iPod Classic was created by Apple
+iPod Classic is a product of Apple
+Zelzal-2 was created by Iran
+Zelzal-2 is a product of Iran
+SEAT 133 was created by Fiat
+SEAT 133 is a product of Fiat
+Cyber-shot was created by Sony
+Cyber-shot is a product of Sony
+Windows Phone 7 was created by Microsoft
+Windows Phone 7 is a product of Microsoft
+Family Computer Disk System was created by Nintendo
+Family Computer Disk System is a product of Nintendo
+Alfa Romeo 164 was created by Fiat
+Alfa Romeo 164 is a product of Fiat
+Dacia Duster was created by Renault
+Dacia Duster is a product of Renault
+Windows Phone 8 was created by Microsoft
+Windows Phone 8 is a product of Microsoft
+Alfa Romeo Alfasud was created by Fiat
+Alfa Romeo Alfasud is a product of Fiat
+Super Game Boy was created by Nintendo
+Super Game Boy is a product of Nintendo
+Acura RL was created by Honda
+Acura RL is a product of Honda
+Acura TSX was created by Honda
+Acura TSX is a product of Honda
+Mini Countryman was created by BMW
+Mini Countryman is a product of BMW
+M6 Gun Motor Carriage was created by Dodge
+M6 Gun Motor Carriage is a product of Dodge
+Scion xD was created by Toyota
+Scion xD is a product of Toyota
+iTunes Remote was created by Apple
+iTunes Remote is a product of Apple
+Multi Interface Shoe was created by Sony
+Multi Interface Shoe is a product of Sony
+Infiniti Q45 was created by Nissan
+Infiniti Q45 is a product of Nissan
+Windows Embedded CE 6.0 was created by Microsoft
+Windows Embedded CE 6.0 is a product of Microsoft
+Sandy Bridge was created by Intel
+Sandy Bridge is a product of Intel
+Tizen was created by Samsung
+Tizen is a product of Samsung
+VP9 was created by Google
+VP9 is a product of Google
+Final Fantasy was created by Square
+Final Fantasy is a product of Square
+OS X Mavericks was created by Apple
+OS X Mavericks is a product of Apple
+iBooks Author was created by Apple
+iBooks Author is a product of Apple
+Symbian was created by Nokia
+Symbian is a product of Nokia
+Windows 98 was created by Microsoft
+Windows 98 is a product of Microsoft
+Windows Embedded Compact was created by Microsoft
+Windows Embedded Compact is a product of Microsoft
+Internet Explorer 5 was created by Microsoft
+Internet Explorer 5 is a product of Microsoft
+IntelliPoint was created by Microsoft
+IntelliPoint is a product of Microsoft
+Journaled File System was created by IBM
+Journaled File System is a product of IBM
+Windows XP was created by Microsoft
+Windows XP is a product of Microsoft
+NTFS was created by Microsoft
+NTFS is a product of Microsoft
+Windows Driver Frameworks was created by Microsoft
+Windows Driver Frameworks is a product of Microsoft
+Heavyweight Champ was created by Sega
+Heavyweight Champ is a product of Sega
+Glyph Bitmap Distribution Format was created by Adobe
+Glyph Bitmap Distribution Format is a product of Adobe
+Logic Pro was created by Apple
+Logic Pro is a product of Apple
+Windows NT 3.1 was created by Microsoft
+Windows NT 3.1 is a product of Microsoft
+High Performance File System was created by Microsoft
+High Performance File System is a product of Microsoft
+Gain Ground was created by Sega
+Gain Ground is a product of Sega
+Final Fantasy V was created by Square
+Final Fantasy V is a product of Square
+DirectX was created by Microsoft
+DirectX is a product of Microsoft
+Disk Utility was created by Apple
+Disk Utility is a product of Apple
+Core 2 was created by Intel
+Core 2 is a product of Intel
+Internet Explorer was created by Microsoft
+Internet Explorer is a product of Microsoft
+Mac OS X Lion was created by Apple
+Mac OS X Lion is a product of Apple
+Gmail was created by Google
+Gmail is a product of Google
+Mac OS X Panther was created by Apple
+Mac OS X Panther is a product of Apple
+ISPF was created by IBM
+ISPF is a product of IBM
+Sonic Drift 2 was created by Sega
+Sonic Drift 2 is a product of Sega
+Windows Easy Transfer was created by Microsoft
+Windows Easy Transfer is a product of Microsoft
+Windows Media Video was created by Microsoft
+Windows Media Video is a product of Microsoft
+Xbox One was created by Microsoft
+Xbox One is a product of Microsoft
+Windows RT was created by Microsoft
+Windows RT is a product of Microsoft
+Tamarin was created by Adobe
+Tamarin is a product of Adobe
+Windows Server 2008 was created by Microsoft
+Windows Server 2008 is a product of Microsoft
+Windows Internet Explorer 7 was created by Microsoft
+Windows Internet Explorer 7 is a product of Microsoft
+Photo Booth was created by Apple
+Photo Booth is a product of Apple
+iCloud was created by Apple
+iCloud is a product of Apple
+Windows Live Mesh was created by Microsoft
+Windows Live Mesh is a product of Microsoft
+Android Runtime was created by Google
+Android Runtime is a product of Google
+VoiceOver was created by Apple
+VoiceOver is a product of Apple
+MacPaint was created by Apple
+MacPaint is a product of Apple
+MiniDisc was created by Sony
+MiniDisc is a product of Sony
+QuickTime was created by Apple
+QuickTime is a product of Apple
+Chrome OS was created by Google
+Chrome OS is a product of Google
+Windows NT 3.51 was created by Microsoft
+Windows NT 3.51 is a product of Microsoft
+Newsstand was created by Apple
+Newsstand is a product of Apple
+Windows 7 was created by Microsoft
+Windows 7 is a product of Microsoft
+Visual Basic Script was created by Microsoft
+Visual Basic Script is a product of Microsoft
+Donkey Kong was created by Nintendo
+Donkey Kong is a product of Nintendo
+iPod Nano was created by Apple
+iPod Nano is a product of Apple
+Bing Maps was created by Microsoft
+Bing Maps is a product of Microsoft
+Windows Virtual PC was created by Microsoft
+Windows Virtual PC is a product of Microsoft
+PowerShell was created by Microsoft
+PowerShell is a product of Microsoft
+Windows Me was created by Microsoft
+Windows Me is a product of Microsoft
+PostScript Printer Description was created by Adobe
+PostScript Printer Description is a product of Adobe
+Yorkfield was created by Intel
+Yorkfield is a product of Intel
+Dynix was created by IBM
+Dynix is a product of IBM
+MacApp was created by Apple
+MacApp is a product of Apple
+Windows Live Messenger was created by Microsoft
+Windows Live Messenger is a product of Microsoft
+WebP Lossless was created by Google
+WebP Lossless is a product of Google
+Windows Vista was created by Microsoft
+Windows Vista is a product of Microsoft
+Windows 8 was created by Microsoft
+Windows 8 is a product of Microsoft
+Fatal Labyrinth was created by Sega
+Fatal Labyrinth is a product of Sega
+Transaction Processing Facility was created by IBM
+Transaction Processing Facility is a product of IBM
+ColorSync was created by Apple
+ColorSync is a product of Apple
+Safari was created by Apple
+Safari is a product of Apple
+HFS Plus was created by Apple
+HFS Plus is a product of Apple
+The Revenge of Shinobi was created by Sega
+The Revenge of Shinobi is a product of Sega
+Event Viewer was created by Microsoft
+Event Viewer is a product of Microsoft
+Wii U system software was created by Nintendo
+Wii U system software is a product of Nintendo
+MSX BASIC was created by Microsoft
+MSX BASIC is a product of Microsoft
+Gear VR was created by Samsung
+Gear VR is a product of Samsung
+Clang was created by Apple
+Clang is a product of Apple
+High Level Shader Language was created by Microsoft
+High Level Shader Language is a product of Microsoft
+iOS was created by Apple
+iOS is a product of Apple
+QuickTime VR was created by Apple
+QuickTime VR is a product of Apple
+Xbox 360 was created by Microsoft
+Xbox 360 is a product of Microsoft
+Altered Beast was created by Sega
+Altered Beast is a product of Sega
+WebObjects was created by Apple
+WebObjects is a product of Apple
+ActiveSync was created by Microsoft
+ActiveSync is a product of Microsoft
+WebM was created by Google
+WebM is a product of Google
+iOS 5 was created by Apple
+iOS 5 is a product of Apple
+Xsan was created by Apple
+Xsan is a product of Apple
+Schema.org was created by Google
+Schema.org is a product of Google
+SonicStage was created by Sony
+SonicStage is a product of Sony
+Internet Explorer 11 was created by Microsoft
+Internet Explorer 11 is a product of Microsoft
+Windows XP Media Center Edition was created by Microsoft
+Windows XP Media Center Edition is a product of Microsoft
+Binary Synchronous Communications was created by IBM
+Binary Synchronous Communications is a product of IBM
+Mac OS 8 was created by Apple
+Mac OS 8 is a product of Apple
+Alex Kidd was created by Sega
+Alex Kidd is a product of Sega
+CICS was created by IBM
+CICS is a product of IBM
+Clang was created by Sony
+Clang is a product of Sony
+Windows 10 was created by Microsoft
+Windows 10 is a product of Microsoft
+Apache Traffic Server was created by Yahoo
+Apache Traffic Server is a product of Yahoo
+iOS 8 was created by Apple
+iOS 8 is a product of Apple
+MobileMe was created by Apple
+MobileMe is a product of Apple
+Pentium II was created by Intel
+Pentium II is a product of Intel
+Channel Definition Format was created by Microsoft
+Channel Definition Format is a product of Microsoft
+Time Machine (macOS) was created by Apple
+Time Machine (macOS) is a product of Apple
+Open XML Paper Specification was created by Microsoft
+Open XML Paper Specification is a product of Microsoft
+Eternal Champions was created by Sega
+Eternal Champions is a product of Sega
+Uniform Type Identifier was created by Apple
+Uniform Type Identifier is a product of Apple
+Internet Information Services was created by Microsoft
+Internet Information Services is a product of Microsoft
+Process Explorer was created by Microsoft
+Process Explorer is a product of Microsoft
+HyperCard was created by Apple
+HyperCard is a product of Apple
+Windows Phone 8.1 was created by Microsoft
+Windows Phone 8.1 is a product of Microsoft
+Resource Interchange File Format was created by Microsoft
+Resource Interchange File Format is a product of Microsoft
+Wii U was created by Nintendo
+Wii U is a product of Nintendo
+App Inventor for Android was created by Google
+App Inventor for Android is a product of Google
+Final Cut Pro was created by Apple
+Final Cut Pro is a product of Apple
+B-52 Stratofortress was created by Boeing
+B-52 Stratofortress is a product of Boeing
+B-17 Flying Fortress was created by Boeing
+B-17 Flying Fortress is a product of Boeing
+File Explorer was created by Microsoft
+File Explorer is a product of Microsoft
+Macintosh File System was created by Apple
+Macintosh File System is a product of Apple
+iLife was created by Apple
+iLife is a product of Apple
+IA-32 was created by Intel
+IA-32 is a product of Intel
+Visual Basic .NET was created by Microsoft
+Visual Basic .NET is a product of Microsoft
+Zune was created by Microsoft
+Zune is a product of Microsoft
+Windows NT was created by Microsoft
+Windows NT is a product of Microsoft
+Wii MotionPlus was created by Nintendo
+Wii MotionPlus is a product of Nintendo
+Skype was created by Microsoft
+Skype is a product of Microsoft
+Tetris DS was created by Nintendo
+Tetris DS is a product of Nintendo
+Soundtrack Pro was created by Apple
+Soundtrack Pro is a product of Apple
+Tizen was created by Intel
+Tizen is a product of Intel
+Andrew File System was created by IBM
+Andrew File System is a product of IBM
+Fonz was created by Sega
+Fonz is a product of Sega
+IA-64 was created by Intel
+IA-64 is a product of Intel
+Windows Phone 8 was created by Microsoft
+Windows Phone 8 is a product of Microsoft
+Congo Bongo was created by Sega
+Congo Bongo is a product of Sega
+G Suite was created by Google
+G Suite is a product of Google
+MVS was created by IBM
+MVS is a product of IBM
+Office Open XML was created by Microsoft
+Office Open XML is a product of Microsoft
+KC-767 was created by Boeing
+KC-767 is a product of Boeing
+Schema.org was created by Yahoo
+Schema.org is a product of Yahoo
+Baku Baku Animal was created by Sega
+Baku Baku Animal is a product of Sega
+Rich Text Format was created by Microsoft
+Rich Text Format is a product of Microsoft
+Eclipse was created by IBM
+Eclipse is a product of IBM
+Windows Server 2008 R2 was created by Microsoft
+Windows Server 2008 R2 is a product of Microsoft
+Windows Internet Explorer 9 was created by Microsoft
+Windows Internet Explorer 9 is a product of Microsoft
+Mac OS 9 was created by Apple
+Mac OS 9 is a product of Apple
+CarPlay was created by Apple
+CarPlay is a product of Apple
+iPod was created by Apple
+iPod is a product of Apple
+Pentium III was created by Intel
+Pentium III is a product of Intel
+Rational Team Concert was created by IBM
+Rational Team Concert is a product of IBM
+MXML was created by Adobe
+MXML is a product of Adobe
+The Legend of Zelda was created by Nintendo
+The Legend of Zelda is a product of Nintendo
+Quick Look was created by Apple
+Quick Look is a product of Apple
+Advanced Function Presentation was created by IBM
+Advanced Function Presentation is a product of IBM
+Windows Mobile 6.5 was created by Microsoft
+Windows Mobile 6.5 is a product of Microsoft
+UNIX System Services was created by IBM
+UNIX System Services is a product of IBM
+Windows Movie Maker was created by Microsoft
+Windows Movie Maker is a product of Microsoft
+Interface Builder was created by Apple
+Interface Builder is a product of Apple
+NTLDR was created by Microsoft
+NTLDR is a product of Microsoft
+Audio Interchange File Format was created by Apple
+Audio Interchange File Format is a product of Apple
+Windows Media Audio was created by Microsoft
+Windows Media Audio is a product of Microsoft
+Virtual Hard Disk was created by Microsoft
+Virtual Hard Disk is a product of Microsoft
+iTunes Radio was created by Apple
+iTunes Radio is a product of Apple
+Open Packaging Conventions was created by Microsoft
+Open Packaging Conventions is a product of Microsoft
+Metroid was created by Nintendo
+Metroid is a product of Nintendo
+Windows 8.1 was created by Microsoft
+Windows 8.1 is a product of Microsoft
+macOS was created by Apple
+macOS is a product of Apple
+Windows Live OneCare was created by Microsoft
+Windows Live OneCare is a product of Microsoft
+Active Server Pages was created by Microsoft
+Active Server Pages is a product of Microsoft
+Xcode was created by Apple
+Xcode is a product of Apple
+Windows Mobile was created by Microsoft
+Windows Mobile is a product of Microsoft
+Mac OS was created by Apple
+Mac OS is a product of Apple
+Golden Axe was created by Sega
+Golden Axe is a product of Sega
+XScale was created by Intel
+XScale is a product of Intel
+iOS 6 was created by Apple
+iOS 6 is a product of Apple
+SPDY was created by Google
+SPDY is a product of Google
+Windows Internet Explorer 8 was created by Microsoft
+Windows Internet Explorer 8 is a product of Microsoft
+Logic Studio was created by Apple
+Logic Studio is a product of Apple
+iPod shuffle was created by Apple
+iPod shuffle is a product of Apple
+Windows Mixed Reality was created by Microsoft
+Windows Mixed Reality is a product of Microsoft
+High Performance File System was created by IBM
+High Performance File System is a product of IBM
+Final Fantasy Legend III was created by Square
+Final Fantasy Legend III is a product of Square
+Windows NT 3.5 was created by Microsoft
+Windows NT 3.5 is a product of Microsoft
+Motion was created by Apple
+Motion is a product of Apple
+Project Ara was created by Google
+Project Ara is a product of Google
+Android TV was created by Google
+Android TV is a product of Google
+Robocopy was created by Microsoft
+Robocopy is a product of Microsoft
+Mac OS X Leopard was created by Apple
+Mac OS X Leopard is a product of Apple
+Gran Trak 10 was created by Atari
+Gran Trak 10 is a product of Atari
+iMovie was created by Apple
+iMovie is a product of Apple
+Lotus 1-2-3 was created by IBM
+Lotus 1-2-3 is a product of IBM
+Squeak was created by Apple
+Squeak is a product of Apple
+Yakuza 2 was created by Sega
+Yakuza 2 is a product of Sega
+Windows Phone Store was created by Microsoft
+Windows Phone Store is a product of Microsoft
+Pentium was created by Intel
+Pentium is a product of Intel
+Xgrid was created by Apple
+Xgrid is a product of Apple
+sRGB was created by Microsoft
+sRGB is a product of Microsoft
+B-47 Stratojet was created by Boeing
+B-47 Stratojet is a product of Boeing
+Virtual Telecommunications Access Method was created by IBM
+Virtual Telecommunications Access Method is a product of IBM
+Object REXX was created by IBM
+Object REXX is a product of IBM
+WriteNow was created by Apple
+WriteNow is a product of Apple
+Windows 95 was created by Microsoft
+Windows 95 is a product of Microsoft
+Attached Support Processor was created by IBM
+Attached Support Processor is a product of IBM
+Mario Bros. was created by Nintendo
+Mario Bros. is a product of Nintendo
+TSS/360 was created by IBM
+TSS/360 is a product of IBM
+Digital Negative was created by Adobe
+Digital Negative is a product of Adobe
+Vector Markup Language was created by Microsoft
+Vector Markup Language is a product of Microsoft
+Final Fantasy III was created by Square
+Final Fantasy III is a product of Square
+Clang was created by Intel
+Clang is a product of Intel
+Front Mission was created by Square
+Front Mission is a product of Square
+iBeacon was created by Apple
+iBeacon is a product of Apple
+Windows Installer was created by Microsoft
+Windows Installer is a product of Microsoft
+macOS Server was created by Apple
+macOS Server is a product of Apple
+Shadow Dancer was created by Sega
+Shadow Dancer is a product of Sega
+Hierarchical File System was created by Apple
+Hierarchical File System is a product of Apple
+EA-18G Growler was created by Boeing
+EA-18G Growler is a product of Boeing
+Time Sharing Option was created by IBM
+Time Sharing Option is a product of IBM
+Mac OS X Snow Leopard was created by Apple
+Mac OS X Snow Leopard is a product of Apple
+BBeB was created by Sony
+BBeB is a product of Sony
+Windows NT 4.0 was created by Microsoft
+Windows NT 4.0 is a product of Microsoft
+REXX was created by IBM
+REXX is a product of IBM
+Windows Phone was created by Microsoft
+Windows Phone is a product of Microsoft
+Xenix was created by Microsoft
+Xenix is a product of Microsoft
+B-29 Superfortress was created by Boeing
+B-29 Superfortress is a product of Boeing
+MacsBug was created by Apple
+MacsBug is a product of Apple
+Dynamic-link library was created by Microsoft
+Dynamic-link library is a product of Microsoft
+MessagePad was created by Apple
+MessagePad is a product of Apple
+Shining Hearts was created by Sega
+Shining Hearts is a product of Sega
+Final Cut Studio was created by Apple
+Final Cut Studio is a product of Apple
+Sonic Drift was created by Sega
+Sonic Drift is a product of Sega
+Advanced Systems Format was created by Microsoft
+Advanced Systems Format is a product of Microsoft
+OpenSearch was created by Amazon
+OpenSearch is a product of Amazon
+Windows Aero was created by Microsoft
+Windows Aero is a product of Microsoft
+iPod Mini was created by Apple
+iPod Mini is a product of Apple
+Shining Blade was created by Sega
+Shining Blade is a product of Sega
+Mario franchise was created by Nintendo
+Mario franchise is a product of Nintendo
+Mac OS X 10.1 was created by Apple
+Mac OS X 10.1 is a product of Apple
+Windows 2.0 was created by Microsoft
+Windows 2.0 is a product of Microsoft
+application bundle was created by Apple
+application bundle is a product of Apple
+SPSS Modeler was created by IBM
+SPSS Modeler is a product of IBM
+Gears was created by Google
+Gears is a product of Google
+Golden Axe was created by Sega
+Golden Axe is a product of Sega
+YUI Library was created by Yahoo
+YUI Library is a product of Yahoo
+Windows Server 2012 was created by Microsoft
+Windows Server 2012 is a product of Microsoft
+Windows 1.0 was created by Microsoft
+Windows 1.0 is a product of Microsoft
+XNU was created by Apple
+XNU is a product of Apple
+Windows Media Player was created by Microsoft
+Windows Media Player is a product of Microsoft
+iTunes was created by Apple
+iTunes is a product of Apple
+DVD Studio Pro was created by Apple
+DVD Studio Pro is a product of Apple
+Pentium 4 was created by Intel
+Pentium 4 is a product of Intel
+Super Monaco GP was created by Sega
+Super Monaco GP is a product of Sega
+Yakuza was created by Sega
+Yakuza is a product of Sega
+Universal Media Disc was created by Sony
+Universal Media Disc is a product of Sony
+Chrono Trigger was created by Square
+Chrono Trigger is a product of Square
+Picasa was created by Google
+Picasa is a product of Google
+General Transit Feed Specification was created by Google
+General Transit Feed Specification is a product of Google
+HyperTalk was created by Apple
+HyperTalk is a product of Apple
+Audio Video Interleave, version 1.0 was created by Microsoft
+Audio Video Interleave, version 1.0 is a product of Microsoft
+Windows 2000 was created by Microsoft
+Windows 2000 is a product of Microsoft
+Pentium Pro was created by Intel
+Pentium Pro is a product of Intel
+NetBurst was created by Intel
+NetBurst is a product of Intel
+QuickDraw was created by Apple
+QuickDraw is a product of Apple
+.NET Framework was created by Microsoft
+.NET Framework is a product of Microsoft
+Pilotwings 64 was created by Nintendo
+Pilotwings 64 is a product of Nintendo
+Cloud Spanner was created by Google
+Cloud Spanner is a product of Google
+Books was created by Apple
+Books is a product of Apple
+Windows Server 2003 was created by Microsoft
+Windows Server 2003 is a product of Microsoft
+Test Drive Le Mans was created by Atari
+Test Drive Le Mans is a product of Atari
+OneDrive was created by Microsoft
+OneDrive is a product of Microsoft
+Small Web Format was created by Adobe
+Small Web Format is a product of Adobe
+Chromecast was created by Google
+Chromecast is a product of Google
+Clang was created by Microsoft
+Clang is a product of Microsoft
+Windows Update was created by Microsoft
+Windows Update is a product of Microsoft
+Internet Explorer 10 was created by Microsoft
+Internet Explorer 10 is a product of Microsoft
+Astron Belt was created by Sega
+Astron Belt is a product of Sega
+XDCAM was created by Sony
+XDCAM is a product of Sony
+CUPS was created by Apple
+CUPS is a product of Apple
+Minecraft was created by Microsoft
+Minecraft is a product of Microsoft
+Programmed Airline Reservations System was created by IBM
+Programmed Airline Reservations System is a product of IBM
+TypeScript was created by Microsoft
+TypeScript is a product of Microsoft
+Virtual Console was created by Nintendo
+Virtual Console is a product of Nintendo
+Cyberdog was created by Apple
+Cyberdog is a product of Apple
+Bing Maps Platform was created by Microsoft
+Bing Maps Platform is a product of Microsoft
+GarageBand was created by Apple
+GarageBand is a product of Apple
+Mother 3 was created by Nintendo
+Mother 3 is a product of Nintendo
+Outlook Express was created by Microsoft
+Outlook Express is a product of Microsoft
+Windows Malicious Software Removal Tool was created by Microsoft
+Windows Malicious Software Removal Tool is a product of Microsoft
+Front Mission 3 was created by Square
+Front Mission 3 is a product of Square
+Windows Media Encoder was created by Microsoft
+Windows Media Encoder is a product of Microsoft
+ThinkPad was created by IBM
+ThinkPad is a product of IBM
+Thunder Blade was created by Sega
+Thunder Blade is a product of Sega
+iWork was created by Apple
+iWork is a product of Apple
+iPad Mini 3 was created by Apple
+iPad Mini 3 is a product of Apple
+Windows Communication Foundation was created by Microsoft
+Windows Communication Foundation is a product of Microsoft
+ASCI Red was created by Intel
+ASCI Red is a product of Intel
+Synchronized Accessible Media Interchange was created by Microsoft
+Synchronized Accessible Media Interchange is a product of Microsoft
+Windows Setup Information File was created by Microsoft
+Windows Setup Information File is a product of Microsoft
+Fantasy Zone was created by Sega
+Fantasy Zone is a product of Sega
+Asteroids Deluxe was created by Atari
+Asteroids Deluxe is a product of Atari
+Fortran was created by IBM
+Fortran is a product of IBM
+iPad 3 was created by Apple
+iPad 3 is a product of Apple
+Final Fantasy Legend II was created by Square
+Final Fantasy Legend II is a product of Square
+Alien Storm was created by Sega
+Alien Storm is a product of Sega
+Newton OS was created by Apple
+Newton OS is a product of Apple
+Final Cut Pro X was created by Apple
+Final Cut Pro X is a product of Apple
+Silvermont was created by Intel
+Silvermont is a product of Intel
+WebKit was created by Apple
+WebKit is a product of Apple
+Clockwork Knight was created by Sega
+Clockwork Knight is a product of Sega
+Flicky was created by Sega
+Flicky is a product of Sega
+Amiibo was created by Nintendo
+Amiibo is a product of Nintendo
+Android Jelly Bean was created by Google
+Android Jelly Bean is a product of Google
+Windows Embedded Automotive was created by Microsoft
+Windows Embedded Automotive is a product of Microsoft
+OS X Yosemite was created by Apple
+OS X Yosemite is a product of Apple
+The Ocean Hunter was created by Sega
+The Ocean Hunter is a product of Sega
+PostScript was created by Adobe
+PostScript is a product of Adobe
+Windows Live Writer was created by Microsoft
+Windows Live Writer is a product of Microsoft
+Mac OS X 10.0 was created by Apple
+Mac OS X 10.0 is a product of Apple
+iPod Touch was created by Apple
+iPod Touch is a product of Apple
+X11.app was created by Apple
+X11.app is a product of Apple
+OpenAFS was created by IBM
+OpenAFS is a product of IBM
+GW-BASIC was created by Microsoft
+GW-BASIC is a product of Microsoft
+Mac OS X Tiger was created by Apple
+Mac OS X Tiger is a product of Apple
+OS X Mountain Lion was created by Apple
+OS X Mountain Lion is a product of Apple
+Mac OS X 10.2 was created by Apple
+Mac OS X 10.2 is a product of Apple
+Super Audio CD was created by Sony
+Super Audio CD is a product of Sony
+Android Auto was created by Google
+Android Auto is a product of Google
+Pentium M was created by Intel
+Pentium M is a product of Intel
+Windows Messaging was created by Microsoft
+Windows Messaging is a product of Microsoft
+Windows Genuine Advantage was created by Microsoft
+Windows Genuine Advantage is a product of Microsoft
+Dashboard was created by Apple
+Dashboard is a product of Apple
+MSX-DOS was created by Microsoft
+MSX-DOS is a product of Microsoft
+iOS 7 was created by Apple
+iOS 7 is a product of Apple
+FairPlay was created by Apple
+FairPlay is a product of Apple
+Itanium was created by Intel
+Itanium is a product of Intel
+Meta Content Framework was created by Apple
+Meta Content Framework is a product of Apple
+iChat was created by Apple
+iChat is a product of Apple
+Xbox Live was created by Microsoft
+Xbox Live is a product of Microsoft
+System 7 was created by Apple
+System 7 is a product of Apple
+MS-DOS was created by Microsoft
+MS-DOS is a product of Microsoft
+iPod Classic was created by Apple
+iPod Classic is a product of Apple
+Yoshi's Universal Gravitation was created by Nintendo
+Yoshi's Universal Gravitation is a product of Nintendo
+Resource Access Control Facility was created by IBM
+Resource Access Control Facility is a product of IBM
+Applesoft BASIC was created by Microsoft
+Applesoft BASIC is a product of Microsoft
+Final Fantasy X was created by Square
+Final Fantasy X is a product of Square
+Zaxxon was created by Sega
+Zaxxon is a product of Sega
+TextEdit was created by Apple
+TextEdit is a product of Apple
+App Store was created by Apple
+App Store is a product of Apple
+Blogger was created by Google
+Blogger is a product of Google
+Report Program Generator was created by IBM
+Report Program Generator is a product of IBM
+Zero configuration networking was created by Apple
+Zero configuration networking is a product of Apple
+Wear OS was created by Google
+Wear OS is a product of Google
+iDisk was created by Apple
+iDisk is a product of Apple
+Statistical Package for the Social Sciences was created by IBM
+Statistical Package for the Social Sciences is a product of IBM
+Internet Explorer Mobile was created by Microsoft
+Internet Explorer Mobile is a product of Microsoft
+V8 was created by Google
+V8 is a product of Google
+Windows 2.1x was created by Microsoft
+Windows 2.1x is a product of Microsoft
+Windows Embedded was created by Microsoft
+Windows Embedded is a product of Microsoft
+Portable Document Format was created by Adobe
+Portable Document Format is a product of Adobe
+XEDIT was created by IBM
+XEDIT is a product of IBM
+WinDbg was created by Microsoft
+WinDbg is a product of Microsoft
+Siri was created by Apple
+Siri is a product of Apple

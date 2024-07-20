@@ -1,0 +1,14 @@
+guard
+closer
+defender
+forward
+outfielder
+midfielder
+goalkeeper
+goaltender
+pitcher
+quarterback
+linebacker
+catcher
+tackle
+centre

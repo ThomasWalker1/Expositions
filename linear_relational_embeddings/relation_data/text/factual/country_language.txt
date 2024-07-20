@@ -1,0 +1,72 @@
+People in United States speak English
+The language used in United States is English
+In United States, the primary language is English
+People in Canada speak English
+The language used in Canada is English
+In Canada, the primary language is English
+People in Mexico speak Spanish
+The language used in Mexico is Spanish
+In Mexico, the primary language is Spanish
+People in Brazil speak Portuguese
+The language used in Brazil is Portuguese
+In Brazil, the primary language is Portuguese
+People in Argentina speak Spanish
+The language used in Argentina is Spanish
+In Argentina, the primary language is Spanish
+People in Chile speak Spanish
+The language used in Chile is Spanish
+In Chile, the primary language is Spanish
+People in Peru speak Spanish
+The language used in Peru is Spanish
+In Peru, the primary language is Spanish
+People in Colombia speak Spanish
+The language used in Colombia is Spanish
+In Colombia, the primary language is Spanish
+People in Venezuela speak Spanish
+The language used in Venezuela is Spanish
+In Venezuela, the primary language is Spanish
+People in Spain speak Spanish
+The language used in Spain is Spanish
+In Spain, the primary language is Spanish
+People in France speak French
+The language used in France is French
+In France, the primary language is French
+People in Germany speak German
+The language used in Germany is German
+In Germany, the primary language is German
+People in Italy speak Italian
+The language used in Italy is Italian
+In Italy, the primary language is Italian
+People in Russia speak Russian
+The language used in Russia is Russian
+In Russia, the primary language is Russian
+People in China speak Mandarin Chinese
+The language used in China is Mandarin Chinese
+In China, the primary language is Mandarin Chinese
+People in Japan speak Japanese
+The language used in Japan is Japanese
+In Japan, the primary language is Japanese
+People in South Korea speak Korean
+The language used in South Korea is Korean
+In South Korea, the primary language is Korean
+People in India speak Hindi
+The language used in India is Hindi
+In India, the primary language is Hindi
+People in Pakistan speak Urdu
+The language used in Pakistan is Urdu
+In Pakistan, the primary language is Urdu
+People in Nigeria speak English
+The language used in Nigeria is English
+In Nigeria, the primary language is English
+People in Egypt speak Arabic
+The language used in Egypt is Arabic
+In Egypt, the primary language is Arabic
+People in Saudi Arabia speak Arabic
+The language used in Saudi Arabia is Arabic
+In Saudi Arabia, the primary language is Arabic
+People in Turkey speak Turkish
+The language used in Turkey is Turkish
+In Turkey, the primary language is Turkish
+People in Australia speak English
+The language used in Australia is English
+In Australia, the primary language is English

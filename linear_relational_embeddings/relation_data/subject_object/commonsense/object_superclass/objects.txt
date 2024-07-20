@@ -1,0 +1,10 @@
+plant
+bird
+fish
+animal
+flower
+vegetable
+reptile
+amphibian
+mammal
+fruit

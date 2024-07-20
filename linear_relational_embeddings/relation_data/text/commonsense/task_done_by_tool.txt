@@ -1,0 +1,52 @@
+The tool used for hitting nails is called a hammer
+The tool used for turning screws is called a screwdriver
+The tool used for cutting is called a knife
+The tool used for drilling holes is called a drill
+The tool used for sawing wood is called a saw
+The tool used for scraping paint is called a scraper
+The tool used for painting walls is called a paintbrush
+The tool used for mopping floors is called a mop
+The tool used for sweeping floors is called a broom
+The tool used for washing dishes is called a sponge
+The tool used for ironing clothes is called a iron
+The tool used for sewing is called a needle and thread
+The tool used for knitting is called a yarn
+The tool used for hunting is called a gun
+The tool used for boating is called a boat
+The tool used for stirring food is called a spoon
+The tool used for measuring ingredients is called a cup
+The tool used for baking is called a oven
+The tool used for mixing batter is called a whisk
+The tool used for digging soil is called a shovel
+The tool used for raking leaves is called a rake
+The tool used for cleaning windows is called a squeegee
+The tool used for vacuuming carpets is called a vacuum cleaner
+The tool used for washing clothes is called a washing machine
+The tool used for drying clothes is called a clothesline
+The tool used for polishing shoes is called a shoe polish
+The tool used for painting furniture is called a paint roller
+The tool used for sanding wood is called a sandpaper
+The tool used for hiking is called a hiking boots
+The tool used for biking is called a bicycle
+The tool used for swimming is called a swimsuit
+The tool used for cooking is called a stove
+The tool used for writing is called a pen and paper
+The tool used for drawing is called a pencil and sketchbook
+The tool used for gardening is called a gardening gloves
+The tool used for photography is called a camera
+The tool used for playing sports is called a ball
+The tool used for exercising is called a dumbbells
+The tool used for dancing is called a music
+The tool used for watching movies is called a television
+The tool used for reading is called a book
+The tool used for listening to music is called a headphones
+The tool used for singing is called a microphone
+The tool used for measuring is called a scale
+The tool used for birdwatching is called a binoculars
+The tool used for playing basketball is called a basketball
+The tool used for playing soccer is called a soccer ball
+The tool used for skateboarding is called a skateboard
+The tool used for riding a scooter is called a scooter
+The tool used for flying a kite is called a kite
+The tool used for doing makeup is called a makeup brushes
+The tool used for taking photographs is called a camera

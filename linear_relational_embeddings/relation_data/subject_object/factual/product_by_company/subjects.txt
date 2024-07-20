@@ -1,0 +1,494 @@
+REXX
+Bing Maps
+iPhone 4s
+Astron Belt
+Lumia series
+Schema.org
+FairPlay
+Windows Embedded CE 6.0
+System 7
+App Store
+iPod Mini
+Altered Beast
+Pentium II
+Windows Movie Maker
+MacApp
+Fully Integrated Robotised Engine
+WebM
+Outlook Express
+iOS 6
+Model M keyboard
+MiniDisc
+Windows Genuine Advantage
+Windows XP Media Center Edition
+Dashboard
+Sonic Drift 2
+Shahab-2
+iPod shuffle
+iTunes
+Channel Definition Format
+DC-3
+macOS Server
+The Legend of Zelda
+Project Ara
+WebP Lossless
+Windows XP
+Siri
+Shahab-4
+Shadow Dancer
+Windows 1.0
+OpenAFS
+Mac OS X 10.2
+MacPaint
+Windows 7
+Advanced Systems Format
+Hierarchical File System
+Windows Aero
+OS X Mavericks
+AMC 35
+Apache Traffic Server
+VTEC
+iISO flash shoe
+Lancia Flavia
+Fatal Labyrinth
+iPhone 3GS
+Baku Baku Animal
+Alfa Romeo Alfasud
+Windows Easy Transfer
+Heavyweight Champ
+OpenSearch
+Open XML Paper Specification
+Windows Server 2008 R2
+Squeak
+Alfa Romeo 75
+DualShock
+WriteNow
+Windows Phone 8
+Kenmore Appliances
+Core 2
+Color TV-Game
+Windows Live Mail
+MacBook Air
+Windows Embedded Compact
+Audio Interchange File Format
+X11.app
+Sileighty
+iOS 7
+Portable Document Format
+Tamarin
+Alfa Romeo 155
+Windows NT 3.51
+ASCI Red
+Mac OS X Leopard
+Time Machine (macOS)
+Golden Axe
+Alpine A106
+Logic Studio
+Xbox One
+App Inventor for Android
+iPad Mini
+PlayStation Eye
+C-40 Clipper
+Wear OS
+Windows Live Mesh
+Windows Server 2003
+iPad Mini 3
+HyperCard
+Xbox 360
+Thunder Blade
+Windows Phone
+Super Monaco GP
+Time Sharing Option
+iPad 3
+iTunes Remote
+Motion
+PostScript
+Windows Embedded
+Picasa
+Windows 10
+Acura CL
+Vector Markup Language
+Pentium 4
+Cyberdog
+Windows NT 3.1
+macOS
+Eternal Champions
+iPad
+iPod
+Scion tC
+Acura RL
+iPod Classic
+Plymouth Valiant
+Windows 2000
+iChat
+Acura MDX
+Lotus 1-2-3
+Final Cut Studio
+PostScript Printer Description
+Windows Mobile
+Toyopet Master
+Chrome OS
+Monomail
+Report Program Generator
+CUPS
+Wii U system software
+Acura TL
+Tetris DS
+Alfa Romeo SZ
+Fortran
+Mac OS
+Isetta
+Windows 8.1
+ActiveSync
+Ferrari 250 GTO
+Glyph Bitmap Distribution Format
+Safari
+G Suite
+Alfa Romeo Brera
+VoiceOver
+Xenix
+Advanced Function Presentation
+Android TV
+Windows Installer
+File Explorer
+Newton OS
+C-135 Stratolifter
+iPhone 5
+Gain Ground
+Yoshi's Universal Gravitation
+IntelliPoint
+Quick Look
+WebObjects
+MessagePad
+Bluesmobile
+Office Open XML
+IA-64
+Andrew File System
+Exmor
+Acura ZDX
+PowerShell
+Asteroids Deluxe
+Mother 3
+TSS/360
+Final Fantasy V
+Dacia Sandero
+Visual Basic Script
+Alfa Romeo Montreal
+SEAT 133
+MSX BASIC
+CIM-10 Bomarc
+Meta Content Framework
+Xbox Live
+Chromecast
+Lancia Lybra
+Super Audio CD
+Bing Maps Platform
+OneDrive
+Gears
+Wii MotionPlus
+QuickTime
+Chromebook Pixel
+Final Fantasy
+Windows RT
+Mac OS 8
+iPod Touch
+Android Jelly Bean
+IA-32
+Game Boy Micro
+Scion xD
+Windows Driver Frameworks
+SPSS Modeler
+iPad 4
+Mario Bros.
+Windows Communication Foundation
+Rich Text Format
+Alien Storm
+Mac OS X Lion
+Mac OS 9
+CarPlay
+Squad 51
+SNES-CD
+PowerFlite
+Xgrid
+Internet Explorer Mobile
+Wii Balance Board
+iPhone 1
+Pontiac Firebird
+Windows Phone 7
+Logic Pro
+MS-DOS
+TorqueFlite
+Mini E
+Windows Server 2008
+XEDIT
+Silvermont
+B-47 Stratojet
+Game Boy Advance
+ColorSync
+Sonic Drift
+RC-135
+Multi Interface Shoe
+DC-9
+Books
+Soundtrack Pro
+DeltaWing
+HFS Plus
+Prince R380
+Lancia 037
+Attached Support Processor
+Windows 2.1x
+Windows Media Audio
+Nasr-1
+Dynamic-link library
+MSX-DOS
+Pentium M
+Windows Media Video
+High Level Shader Language
+QuickTime VR
+Amiibo
+Final Fantasy III
+Universal Media Disc
+Autobianchi A112
+Internet Information Services
+Acura EL
+Alpine A108
+Zaxxon
+Clang
+Cloud Spanner
+Android Runtime
+Game Boy Advance SP
+MVS
+Rolls-Royce Phantom
+Small Web Format
+CICS
+Eagle Medallion
+Windows 98
+WinDbg
+Windows Internet Explorer 8
+Gear VR
+BBeB
+iBeacon
+Lancia Thema
+Zero configuration networking
+Lancia Aprilia
+Acura TSX
+Yakuza 2
+Skype
+TypeScript
+iPhone
+Windows Phone Store
+Resource Interchange File Format
+OS X Yosemite
+Infiniti QX
+NetBurst
+Test Drive Le Mans
+Lancia Gamma
+PGM-17 Thor
+MXML
+Geo Metro
+Plymouth Prowler
+Windows Internet Explorer 9
+Alfa Romeo MiTo
+Windows Setup Information File
+Platform Controller Hub
+XNU
+Sandy Bridge
+PGM-11 Redstone
+Bionz
+Yakuza
+Newsstand
+Zune
+Windows Mobile 6.5
+General Transit Feed Specification
+Final Cut Pro
+Mac OS X Snow Leopard
+iOS 8
+Mac OS X 10.0
+iCloud
+Binary Synchronous Communications
+Windows Mixed Reality
+Pentium
+Xcode
+Event Viewer
+Final Cut Pro X
+QuickDraw
+Fonz
+Mario franchise
+Shahab-1
+Internet Explorer 11
+Digital Negative
+High Performance File System
+SteadyShot
+Audio Video Interleave, version 1.0
+Mac OS X 10.1
+Final Fantasy X
+B-52 Stratofortress
+Android Auto
+GAM-87 Skybolt
+Lancia Ypsilon
+PGM-19 Jupiter
+Windows Internet Explorer 7
+Open Packaging Conventions
+Infiniti Q45
+Windows Media Encoder
+Windows NT 4.0
+iWork
+Dacia Duster
+SonicStage
+Front Mission
+ThinkPad
+UNIX System Services
+Windows NT 3.5
+Clockwork Knight
+Interface Builder
+Wii U
+Blogger
+Macintosh File System
+Applesoft BASIC
+Gmail
+Programmed Airline Reservations System
+Transaction Processing Facility
+Alfa Romeo 6C
+Virtual Telecommunications Access Method
+Windows 95
+Jeep Grand Cherokee
+CineAlta
+Minecraft
+Metroid
+AGM-69 SRAM
+Windows Vista
+Windows Phone 8.1
+Mac OS X Panther
+Infiniti JX
+Super Game Boy
+OS X Mountain Lion
+Dynix
+Disk Utility
+Windows Malicious Software Removal Tool
+Windows Media Player
+Hwasong-5
+Windows Server 2012
+EA-18G Growler
+F3D Skyknight
+Fantasy Zone
+Windows 2.0
+Windows Virtual PC
+Pilotwings 64
+Visual Basic .NET
+Chrono Trigger
+iLife
+Itanium
+iOS
+application bundle
+Mini Hatch
+Active Server Pages
+Yorkfield
+ISPF
+Final Fantasy Legend II
+iPod Nano
+Alfa Romeo 164
+Flicky
+Pratt & Miller
+Internet Explorer
+Shining Blade
+Acura RDX
+Windows Live Writer
+Eagle Premier
+Tizen
+Final Fantasy Legend III
+GW-BASIC
+MobileMe
+Windows Embedded Automotive
+VP9
+M6 Gun Motor Carriage
+Acura ILX
+Uniform Type Identifier
+.NET Framework
+Virtual Hard Disk
+Gran Trak 10
+Xbox
+Donkey Kong
+StyleWriter
+AMR 33
+B-29 Superfortress
+Internet Explorer 10
+Cyber-shot
+System Controller Hub
+Lancia Musa
+NTFS
+Congo Bongo
+HyperTalk
+Photo Booth
+XScale
+Fateh-110
+Pentium III
+B-17 Flying Fortress
+LGA 775
+Eclipse
+Rational Team Concert
+Dardo IFV
+YF-22
+WebKit
+Alex Kidd
+Symbian
+iBooks Author
+Front Mission 3
+The Revenge of Shinobi
+Robocopy
+Windows Update
+Synchronized Accessible Media Interchange
+V8
+AGM-86 ALCM
+Windows 8
+Jeep Wrangler
+MIM-3 Nike-Ajax
+Lancia Dedra
+LGM-30 Minuteman
+SPDY
+YUI Library
+iTunes Radio
+Object REXX
+Pentium Pro
+NTLDR
+AMR 35
+Acura Legend
+Journaled File System
+Xsan
+TextEdit
+iOS 5
+Windows Messaging
+MacsBug
+Windows Live Messenger
+Xeon
+Windows Me
+Shining Hearts
+Kindle Fire
+Process Explorer
+Windows Live OneCare
+Mac OS X Tiger
+iMovie
+Autobianchi Y10
+KC-767
+Statistical Package for the Social Sciences
+XDCAM
+GarageBand
+Windows NT
+Family Computer Disk System
+Infiniti Q50
+MacBook Pro
+Dino
+Game & Watch
+Mac Pro
+The Ocean Hunter
+Resource Access Control Facility
+Mini Countryman
+DirectX
+Zelzal-2
+N-Gage QD
+iDisk
+Datsun Sports
+sRGB
+DVD Studio Pro
+Virtual Console
+Internet Explorer 5
+Auto Avio Costruzioni 815

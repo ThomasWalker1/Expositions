@@ -1,0 +1,287 @@
+Daniel Beneš
+Andy Jassy
+Olivier Brandicourt
+Amin H. Al-Nasser
+Joe Kaeser
+Maryana Iskander
+Alan Jope
+Arkady Volozh
+Ola Källenius
+Elmar Degenhart
+Phebe Novakovic
+Søren Skou
+Yōji Furumiya
+Larry Fink
+Jean-Pascal Tricoire
+Charlie Scharf
+Karl-Johan Persson
+Philip Jansen
+Oliver Zipse
+Rami Rahim
+Ryan Roslansky
+Susanne Baumann
+Michel Vounatsos
+Yūji Fukasawa
+Dan Schulman
+Yi Gang
+Stephen Cooper
+Arvind Krishna
+Benedetto Vigna
+Stephen J. Luczo
+Jochen Hanebeck
+Steffen Greubel
+Jean-Marc Chéry
+Craig Menear
+Thomas Rabe
+Roy Jakobs
+Jamie Iannone
+Darren Woods
+Elon Musk
+Don Garber
+C. Fred Bergsten
+Arnaud Feist
+Patrick Pouyanné
+Benoît Coquart
+Larry Merlo
+Jindřich Fremuth
+Doug McMillon
+Shuntaro Furukawa
+Shin Kaneko
+Takahiro Hachigō
+Thomas Kennedy
+Ian M. Cook
+Ma Huateng
+Guillaume Faury
+David Burritt
+Luca de Meo
+Timotheus Höttges
+Brian L. Roberts
+Julie Sweet
+Ramon Laguarta
+Maria Rørbye Rønn
+Nick Poole
+Marie Gaille
+Marco Lambertini
+Chung Eui-sun
+Andrzej Modrzejewski
+Robert Bakish
+Nicolas Hieronimus
+Jean-Bernard Lévy
+François-Henri Pinault
+Dion Weisler
+Álex Cruz
+Emma Walmsley
+Dara Khosrowshahi
+Bernard Arnault
+Emily Büning
+Makoto Uchida
+Sergio Ermotti
+Scott Kirby
+H. Lawrence Culp Jr.
+James Quincey
+Albert Bourla
+Alan Langlands
+Börje Ekholm
+Ilham Kadri
+Sundar Pichai
+Nick Read
+Herbert Hainer
+John S. Chen
+Andrew Wilson
+Masayoshi Son
+Bob Jordan
+Dorothea Fischer
+Ulrich Lehner
+Bobby Kotick
+Marc Benioff
+Houlin Zhao
+Mohammed Shia' Al Sudani
+Samuel DiPiazza
+Frédéric Gagey
+Richard E. Snyder
+Xavier Huillard
+Christos Christou
+Chris Kempczinski
+Jim Gianopulos
+Alfred F. Kelly
+Frank Appel
+Philippe Crébassa
+Stefan Hartung
+Jamie Fly
+James P. Gorman
+Kenneth Frazier
+Mark Zuckerberg
+Ben Silbermann
+Patrick Lo
+Pascal Soriot
+Barry Meyer
+Kristalina Georgieva
+Bernard Charlès
+Ajaypal Singh Banga
+Ferran Reverter
+Ciarán Devane
+John Stankey
+Meg Whitman
+Jeff Clarke
+Axel Freisewinkel
+Lucian Grainge
+Herman Gref
+Ulrich Spiesshofer
+Brian Peddle
+Vagit Alekperov
+Ed Bastian
+Chuck Robbins
+Aleš Blažek
+Nobuaki Kurumatani
+Peter Sirota
+Jamie Dimon
+David Abney
+Robert B. Ford
+David Solomon
+Gabe Newell
+Antonio Neri
+Adena Friedma
+Timothy Mayopoulos
+Konstantin Ernst
+Ken Murph
+Warren Buffett
+Daniel O'Day
+Ren Zhengfei
+Doug Carlston
+Lisa Su
+Brian Cornell
+Matthew Prince
+Hans Vestberg
+Merja Ylä-Anttila
+Ken'ichiro Yoshida
+Jim Umpleby
+Jacek Olczak
+Yang Yuanqing
+Klaus Zellmer
+Brian Moynihan
+Jonas Samuelson
+Mike S. Zafirovski
+Jon Moeller
+Jane Fraser
+Mike Sievert
+Daniel Zhang
+Todd Howard
+Dennis Muilenburg
+Jim Farley
+Charles Deere Wiman
+Oleg Belozyorov
+Paul Hermelin
+David M. Solomon
+Natalya Sindeyeva
+Niels B. Christiansen
+Jesús Serrano Martínez
+Mike Wirth
+Dirk Van de Put
+Freddy Heineken
+Steven Dessein
+Stephen Squeri
+Bernard Looney
+Daniel R. Porterfield
+Hubert Joly
+Sven Boinet
+Jacques Maddaluno
+Shantanu Narayen
+Petr Kudela
+Steve Burke
+Jacques Aschenbroich
+André Le Bivic
+Markus Duesmann
+Bob Swan
+Michael Dell
+Régis Lacote
+Kim Ki Nam
+Martin Brudermüller
+Cristiano Amon
+Reshma Kewalramani
+Kevin Johnson
+Maurice Lévy
+Toshiaki Higashihara
+Jean-Laurent Bonnafé
+Aditya Mittal
+Pieter Elbers
+Jan Juchelka
+Bruce Broussard
+Doug Parker
+Tim Cook
+Oliver Blume
+Benoît Potier
+Jon Stephenson von Tetzchner
+Tracie D. Hall
+Brian Goldner
+Jensen Huang
+Bob Iger
+Stuart Gulliver
+Charles O. Holliday
+Alexey Miller
+Raj Subramaniam
+Zbyněk Průša
+Arturo Sosa Abascal
+Nancy McKinstry
+Thomas J. Falk
+W. Craig Jelinek
+Ryan Lance
+Greg Creed
+Tim Armstrong
+Rodney McMullen
+Carsten Spohr
+Roman Vik
+Marc Houalla
+Christian Sewing
+Alex Gorsky
+Jim Fitterling
+Christel Heydemann
+Robert Chvátal
+Nat Friedman
+David J. Wright
+Yannick Bolloré
+Pam Fredman
+John Donahoe
+Manfred Knof
+Alan Joyce
+Rolf Martin Schmitz
+Lei Jun
+Sergei Alexandrovsky
+Armin Papperger
+Wael Sawan
+Kathy J. Warden
+Giovanni Caforio
+Werner Baumann
+Pekka Lundmark
+Darius Adamczyk
+Francisco D'Souza
+Tomáš Salomon
+Mary Barra
+Lawrence A. Tabak
+Satya Nadella
+Akio Toyoda
+Marjan Rintel
+Alexandre Bompard
+Simon Moutter
+Pekka Vauramo
+Matt Hicks
+Jonathan Seaton
+Jen-Hsun Huang
+Göran Marby
+Petr Brzezina
+Kazuaki Hasegawa
+Yves Guillemot
+Hans Michael Strepp
+Salvatore Rossi
+Terry Gou
+Michal Krapinec
+David A. Ricks
+Patrice Caine
+Ted Sarandos
+Marillyn Hewson
+Bjørn Gulden
+Daniel Křetínský
+Yasuyuki Watanuki
+Kazuhiro Tsuga
+Mark Avery
+Joseph Jimenez
+Jennifer Morgan

@@ -1,0 +1,24 @@
+flower shop
+airplane
+hospital
+kitchen
+studio
+garage
+fire station
+library
+pharmacy
+gym
+concert hall
+bakery
+stadium
+school
+truck
+laboratory
+office
+courthouse
+barbershop
+military base
+restaurant
+farm
+salon
+store

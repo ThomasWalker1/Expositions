@@ -1,0 +1,31 @@
+Pegasus
+Scorpius
+Grus
+Andromeda
+Hydra
+Canis Minor
+Orion
+Indus
+Cygnus
+Ursa Major
+Piscis Austrinus
+Sagittarius
+Cetus
+Lyra
+Canis Major
+Aquila
+Boötes
+Hercules
+Cancer
+Aquarius
+Cassiopeia
+Libra
+Corona Borealis
+Crux
+Taurus
+Leo
+Perseus
+Gemini
+Pisces
+Virgo
+Auriga

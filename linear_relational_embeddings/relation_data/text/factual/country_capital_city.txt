@@ -1,0 +1,48 @@
+The capital city of United States is Washington D.C.
+The capital of United States is Washington D.C.
+The capital city of Canada is Ottawa
+The capital of Canada is Ottawa
+The capital city of Mexico is Mexico City
+The capital of Mexico is Mexico City
+The capital city of Brazil is Bras\u00edlia
+The capital of Brazil is Bras\u00edlia
+The capital city of Argentina is Buenos Aires
+The capital of Argentina is Buenos Aires
+The capital city of Chile is Santiago
+The capital of Chile is Santiago
+The capital city of Peru is Lima
+The capital of Peru is Lima
+The capital city of Colombia is Bogot\u00e1
+The capital of Colombia is Bogot\u00e1
+The capital city of Venezuela is Caracas
+The capital of Venezuela is Caracas
+The capital city of Spain is Madrid
+The capital of Spain is Madrid
+The capital city of France is Paris
+The capital of France is Paris
+The capital city of Germany is Berlin
+The capital of Germany is Berlin
+The capital city of Italy is Rome
+The capital of Italy is Rome
+The capital city of Russia is Moscow
+The capital of Russia is Moscow
+The capital city of China is Beijing
+The capital of China is Beijing
+The capital city of Japan is Tokyo
+The capital of Japan is Tokyo
+The capital city of South Korea is Seoul
+The capital of South Korea is Seoul
+The capital city of India is New Delhi
+The capital of India is New Delhi
+The capital city of Pakistan is Islamabad
+The capital of Pakistan is Islamabad
+The capital city of Nigeria is Abuja
+The capital of Nigeria is Abuja
+The capital city of Egypt is Cairo
+The capital of Egypt is Cairo
+The capital city of Saudi Arabia is Riyadh
+The capital of Saudi Arabia is Riyadh
+The capital city of Turkey is Ankara
+The capital of Turkey is Ankara
+The capital city of Australia is Canberra
+The capital of Australia is Canberra

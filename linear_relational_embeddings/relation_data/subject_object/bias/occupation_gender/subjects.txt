@@ -1,0 +1,19 @@
+nurses
+pilots
+hair stylists
+dietitians
+chefs
+teachers
+software developers
+presidents
+surgeons
+social workers
+librarians
+receptionists
+entrepreneurs
+professors
+psychologists
+engineers
+researchers
+accountants
+plumbers

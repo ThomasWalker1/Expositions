@@ -1,0 +1,60 @@
+Pizza originates from Italy
+Pizza is from the country of Italy
+Sushi originates from Japan
+Sushi is from the country of Japan
+Tacos originates from Mexico
+Tacos is from the country of Mexico
+Baguette originates from France
+Baguette is from the country of France
+Poutine originates from Canada
+Poutine is from the country of Canada
+Paella originates from Spain
+Paella is from the country of Spain
+Chimichurri originates from Argentina
+Chimichurri is from the country of Argentina
+Baklava originates from Turkey
+Baklava is from the country of Turkey
+Feijoada originates from Brazil
+Feijoada is from the country of Brazil
+Borscht originates from Ukraine
+Borscht is from the country of Ukraine
+Fish and Chips originates from United Kingdom
+Fish and Chips is from the country of United Kingdom
+Dim Sum originates from China
+Dim Sum is from the country of China
+Kimchi originates from South Korea
+Kimchi is from the country of South Korea
+Goulash originates from Hungary
+Goulash is from the country of Hungary
+Pierogi originates from Poland
+Pierogi is from the country of Poland
+Pho originates from Vietnam
+Pho is from the country of Vietnam
+Hummus originates from Lebanon
+Hummus is from the country of Lebanon
+Gyro originates from Greece
+Gyro is from the country of Greece
+Masala Dosa originates from India
+Masala Dosa is from the country of India
+Rendang originates from Indonesia
+Rendang is from the country of Indonesia
+Moussaka originates from Greece
+Moussaka is from the country of Greece
+Pavlova originates from New Zealand
+Pavlova is from the country of New Zealand
+Shawarma originates from Middle East
+Shawarma is from the country of Middle East
+Falafel originates from Middle East
+Falafel is from the country of Middle East
+Ceviche originates from Peru
+Ceviche is from the country of Peru
+Biryani originates from India
+Biryani is from the country of India
+Wiener Schnitzel originates from Austria
+Wiener Schnitzel is from the country of Austria
+Fondue originates from Switzerland
+Fondue is from the country of Switzerland
+Pad Thai originates from Thailand
+Pad Thai is from the country of Thailand
+Miso Soup originates from Japan
+Miso Soup is from the country of Japan

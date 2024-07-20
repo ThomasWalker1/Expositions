@@ -1,0 +1,6 @@
+slide
+guitar
+violin
+trumpet
+piano
+singing

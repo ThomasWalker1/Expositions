@@ -1,0 +1,918 @@
+Vincent Moscato
+Julien Carette
+Bernard Giraudeau
+Miguel de Cervantes
+Max Jacob
+Jean-Paul Sartre
+Patrick Rambaud
+Vera Lynn
+Boris Vian
+Thierry Lhermitte
+Michel Poniatowski
+Fanny Ardant
+Coenraad Jacob Temminck
+Maurice Poli
+Paul Morand
+Ariane Labed
+Dominique Sanda
+Silvia Monfort
+Lev Kulidzhanov
+Paul Biegel
+William-Adolphe Bouguereau
+Dmitry Malikov
+Julien Dray
+Jean Allemane
+Eduard Khil
+Roland Armontel
+Jean-Christophe Bouvet
+Olga Georges-Picot
+Charles Chamberland
+Lo Hartog van Banda
+Ville Haapasalo
+Pierre Braunberger
+Dominique Joseph Garat
+Lev Landau
+Theo van Doesburg
+Mathieu de Montmorency
+Andrey Malakhov
+Michel Ordener
+Marie-Anne Chazel
+Jacques Laffitte
+Michel Braudeau
+Paolo Tiralongo
+Rainer Maria Rilke
+Aleksandr Ptushko
+Alexander Penn
+Edward Burnett Tylor
+Michel Modo
+George Sluizer
+Paul Le Person
+Andy Murray
+Jean-Baptiste Alphonse Karr
+Pascale Ogier
+Didier Van Cauwelaert
+Christian Jacq
+Dominique Rocheteau
+Jean de La Fontaine
+Charles Augustin Sainte-Beuve
+Patrick Devedjian
+Michel Denisot
+Shakira
+Louis Gallet
+Hendrik Lorentz
+Guy Patin
+Sridevi
+Pierre Bayle
+Korney Chukovsky
+Octave Uzanne
+Jeanne Balibar
+Adrien Duport
+Hendrick de Keyser
+Leslie Caron
+Jean-Baptiste Solignac
+Paul Pellisson
+Pascal Quignard
+Henri Garat
+Sourou-Migan Apithy
+Kim Philby
+Dmitry Muratov
+Alfred Marie-Jeanne
+Ernest Monis
+Victor de Riqueti, marquis de Mirabeau
+Yuri Knorozov
+Henri Vidal
+Arnould Galopin
+Yevgeny Yevtushenko
+Miho Mosulishvili
+Clovis Cornillac
+Charles-Joseph Panckoucke
+Paschal Grousset
+Frederick Marryat
+Bernard Blancan
+Mikhail Evstafiev
+Alexander Osmerkin
+Fyodor Pavlovich Reshetnikov
+Romain Duris
+Vitruvius
+Edwy Plenel
+Jean Rouch
+Nadezhda Krupskaya
+Artyom Borovik
+Maurice Herzog
+William Butler Yeats
+Geoff Dyer
+Paulette Dubost
+Paul Guimard
+Andrew Jackson
+Adriaan van Dis
+Nicolas Giraud
+Jean Martinelli
+Vera Brezhneva
+Marc Alyn
+Patrick Chamoiseau
+Anatoly Kudryavitsky
+Jean Follain
+Maria Tesselschade Visscher
+John Webster
+Jean-Pierre Pernaut
+Raymond Abellio
+Blanchette Brunoy
+Manuel Blanc
+Christiane Taubira
+Eduard Uspensky
+Lipke Holthuis
+Marie Curie
+Audrey Tautou
+John Abraham Heraud
+Hendrik Petrus Berlage
+Paul Citroen
+Eugene Kaspersky
+Grigoris Lambrakis
+Maarten Tromp
+Laurent Stocker
+Thom Hoffman
+Jean-Baptiste Henri Lacordaire
+Pierre-Joseph Cambon
+Pyotr Vyazemsky
+Jean Anouilh
+Louis Pergaud
+Victor de Laprade
+Emmanuelle Arsan
+Rajesh Khanna
+Louis-Jean-Marie Daubenton
+Aleksei Dikiy
+Pierre Reverdy
+Gil J Wolman
+Imanol Arias
+Bertrand Tavernier
+F. Springer
+Michel Etcheverry
+Zachary Taylor
+Jonathan Littell
+Constantijn Huygens
+Jean Gabriel Marchand
+Nadine Morano
+Paul Coste-Floret
+Michael of Romania
+Jean Galland
+Alexander Lebedev
+Jean Giraudoux
+Claude Bernard
+Jean Yanne
+Jean-Pierre Marielle
+Yvan Goll
+Jean-Claude Brialy
+Paul Crauchet
+Georgy Shpagin
+Sara Coleridge
+Leo Klejn
+Jean-Baptiste Philibert Willaumez
+Olivier Rabourdin
+J. Robert Oppenheimer
+Laurent Lafitte
+Slava Zaitsev
+Jean Piat
+Adam Sandler
+Jean-Claude Brisseau
+Marina Hands
+Claude Gensac
+Dominique Zardi
+Tommy Nilsson
+Myriam Bru
+Guy Sorman
+Freek de Jonge
+Jean-Marie Colombani
+Pierre Brice
+Louis Friant
+Pierre Laval
+Porfiry Ivanov
+John Stuart Mill
+Jalil Lespert
+Hendrik Wagenvoort
+Juan de Espinosa Medrano
+Georges Mouton
+Ivan Kireyevsky
+Dominique Pinon
+Novak Djokovic
+Joseph Reinach
+Irina Arkhipova
+Louis Bonaparte
+Fernand David
+Christophe Hondelatte
+Jean-Sifrein Maury
+Vincent Lacoste
+Wang Shu
+Franz-Olivier Giesbert
+Raimu
+Dmitry Medvedev
+Nina Companéez
+Sully Prudhomme
+Basshunter
+Claude Bartolone
+Joseph Paul-Boncour
+Edward Bulwer-Lytton
+Marie NDiaye
+Leo Tolstoy
+Auguste Villiers de l'Isle-Adam
+Goswin de Stassart
+Marcel Mouloudji
+Paul Louis Courier
+Jacques Attali
+Jean Schopfer
+Nicolas Chamfort
+Maurice Thorez
+Odette Barencey
+Jean-Claude Izzo
+Marcelin Pleynet
+Didier Daeninckx
+Seamus Heaney
+Alexandre Auguste Ledru-Rollin
+Anton Reinhard Falck
+Paul Bonifas
+Edmond Michelet
+Isabelle Caro
+Adrienne Monnier
+Bernard Alane
+Xavier Saint-Macary
+Michel Ciment
+Coluche
+Yuri Vizbor
+Polina Zherebtsova
+Eva Ionesco
+Ovid
+Isabelle Breitman
+Chrisye
+Coralie Trinh Thi
+Pierre Magnier
+Dany Robin
+Alain Savary
+Louis Jourdan
+Victor Prosper Considerant
+Woodrow Wilson
+Moses Amyraut
+Raymond Triboulet
+Annick Alane
+Balthasar Bekker
+Louis Barthou
+Jean Le Poulain
+Maurice Faure
+Cees Nooteboom
+Jean-Claude Grumberg
+Vasily Kamensky
+Daniel Pennacchioni
+Maurice Renard
+Claude-Joseph Dorat
+Georges Gorse
+Nikolai Bukharin
+Francis Blanche
+Jean-Marie Cavada
+Ida Dalser
+Johnny Hallyday
+Jacques Ellul
+Mehdi Nebbou
+Muriel Barbery
+John Banville
+Anna Kournikova
+Vera Zvonareva
+Francis de Croisset
+Andreas Karkavitsas
+Stefanos Stratigos
+Emil Cioran
+Dmitry Pisarev
+Marguerite Audoux
+Louis-Nicolas Davout
+Catherine Deneuve
+Ginette Garcin
+Odette Joyeux
+Leonard Knijff
+Franz Kafka
+Martin Lamotte
+Blaise Pascal
+Patrice Leconte
+Jacques Legras
+David Beckham
+Aletta Jacobs
+Charles Hernu
+Paul Frankeur
+Isaac Vossius
+Jules Roy
+Brigitte Bardot
+Jacques Charles Dupont de l'Eure
+Cyril Collard
+Pierre Louis Prieur
+Alfonso V of Aragon
+Almeida Garrett
+Nyusha
+Frantz Fanon
+Delphine de Girardin
+Bernard Tapie
+Emmanuel Hocquard
+Pablo Picasso
+Christine Boisson
+Sylvia Lopez
+Yevgenia Albats
+Roger Holeindre
+Victorien Sardou
+Roman Karmen
+Cornelis Tiele
+Jacques Leroy de Saint Arnaud
+Henri-Joseph Paixhans
+Henry de Montherlant
+Giunta Pisano
+Kozma Prutkov
+Simon Dubnow
+Marie Glory
+Jan Peter Balkenende
+Brigitte Catillon
+Charlotte-Rose de Caumont de La Force
+Henri Decoin
+Roger Duchesne
+Alphonse Pyramus de Candolle
+Twm o'r Nant
+Georgios Rallis
+John Quincy Adams
+Jacobus Revius
+Kannadasan
+Claude Victor-Perrin, Duc de Belluno
+A. P. J. Abdul Kalam
+Yvonne de Bray
+Aleksey Khomyakov
+Laura Smet
+Virginia Woolf
+Louis Joxe
+Learco Guerra
+Sophie Calle
+Pierre Pelot
+Gaby Morlay
+Klaas Schilder
+Hannah Szenes
+Roger Nimier
+Irina Shayk
+Jules Paul Benjamin Delessert
+Jean-Marie Guyau
+Franz Roubaud
+Ludivine Sagnier
+Pino Caruso
+Ivan Puni
+Anne-Marie Idrac
+Jean Davy
+Roger Caillois
+Jacques Laurent
+Joseph Buonaparte
+Bernard Musson
+Olivier Marchal
+Anne Fontaine
+Gerard Bilders
+Josiane Balasko
+Jacques Werup
+Ruslan Khasbulatov
+Louis Darquier de Pellepoix
+Gilles Lellouche
+Mikhail Khodorkovsky
+Denis Robert
+Nikolay Nekrasov
+Achille Varzi
+Jean Reno
+Dmitry Merezhkovsky
+Adolphe Pinard
+Herman Gorter
+Jean-Marie Pardessus
+Lydia Chukovskaya
+Lindsey Davis
+Hendrik Nicolaas Werkman
+Jean-Hilaire Aubame
+Joseph Luns
+Yves Beneyton
+Julien Courbet
+Riebeeck Jan Van
+Go Hyeon-jeong
+Fredrika Bremer
+Michel Sardou
+Maximilian Voloshin
+Pierre Brasseur
+Denys Corbet
+Lee Chang-dong
+Don Cossacks
+Farid Chopel
+Lydie Denier
+Augustin Barruel
+Alfred Capus
+Andries Cornelis Dirk de Graeff
+Guy Debord
+Henri Desgrange
+Jacques Dumesnil
+Francis Carco
+Pierre Assouline
+Tina Turner
+Henri Barbusse
+Jacques Doriot
+Laurent Fabius
+Kad Merad
+Sacha Briquet
+Pierre Guyotat
+Ercole Baldini
+Ernest Picard
+Pierre Schneiter
+Hugo von Hofmannsthal
+Kool Shen
+Elsa Lunghini
+Robert de Flers
+Suzy Prim
+Jan Commelin
+Firmin Abauzit
+Roger Garaudy
+Ann Scott
+Louis Nicolas Vauquelin
+Al Gore
+Fernand Gravey
+Joop Zoetemelk
+Ferdinand-Alphonse Hamelin
+Marcel Ichac
+Caroline Ducey
+Anthony Delon
+Margot Anand
+Gustave Geffroy
+Gabrielle Fontan
+Jean Desailly
+Mario Vargas Llosa
+Nicolaas Pierson
+Grigore Moisil
+Dmitry Rybolovlev
+Mimie Mathy
+Mathieu Amalric
+Nicholas Marr
+Michel Onfray
+Rafael Alberti
+John Calvin
+Jean-Pierre Thiollet
+Georges Ernest Boulanger
+Anastasia Myskina
+Georges Sadoul
+Joseph Joubert
+Christopher Smart
+Aagje Deken
+Christopher Frank
+Roger Dumas
+Marie-Arlette Carlotti
+Vladimir Putin
+Alexander Pushkin
+Herman Dooyeweerd
+Michele Bartoli
+Jean Marais
+Vladimir Mayakovsky
+Lionel Messi
+Alexandre Dumas, fils
+Alain Cuny
+Marcel Vibert
+Thieleman J. van Braght
+Ivan Ivanov-Vano
+Jean Raspail
+Christine Albanel
+Michel Robin
+Jacques Mauclair
+Valentin Rasputin
+Anna Prucnal
+Jean-Baptiste Maunier
+Zakhar Prilepin
+Isabelle Autissier
+Suzy Vernon
+Jacques Dynam
+Olivier Messiaen
+Virginie Ledoyen
+Ger van Elk
+Jean Chiappe
+Brian May
+Yvonne Monlaur
+Agoston Haraszthy
+Pierre Bec
+Jean Paulhan
+Vladimir Bekhterev
+Victor Horta
+Anastasy Vonsyatsky
+George Sand
+Anton Nilson
+Alexandre Rignault
+Dominique Bouhours
+Nathalie Baye
+Louis Edmond Duranty
+Georges Marchal
+Alexandra Marinina
+Johan van Heemskerk
+Amira Casar
+Chris Marker
+Fred Vargas
+Adolphe Schneider
+Jean Sorel
+Henricus Hondius II
+Clio Goldsmith
+Charles Perrault
+Peter Kropotkin
+Georges Bernier
+Camille de Casabianca
+Dino Dvornik
+Samuel Benchetrit
+William Howitt
+Nikolay Akimov
+Brigitte Fontaine
+Corinne Calvet
+Emmanuel Macron
+Jean-Baptiste Say
+Joseph-Marie, comte Portalis
+Jean Lacouture
+Michel Brault
+Giovanni Boccaccio
+Park Bum-shin
+Leconte de Lisle
+Jean Debucourt
+Dominique Cabrera
+Pauline Lafont
+Jacques Dufilho
+Andrew Lang
+Michel Camdessus
+Shi Yongxin
+Casimir Delavigne
+Junie Astor
+Aleksandr Kaleri
+Michel Zevaco
+Daniel Darc
+Jan Wils
+Sophie Marceau
+Tonino Benacquista
+Roger Karoutchi
+Norman Rockwell
+Polaire
+Milly Mathis
+Jean Rouaud
+Claude Rich
+Georges Perec
+Paul Doumer
+Chen Xiaoxu
+Michael Albert
+Michel Saint-Denis
+Bas Jan Ader
+Gautier de Metz
+Fabrice Luchini
+Vlada Roslyakova
+Reinhart Dozy
+Germaine Dieterlen
+Anna Bijns
+Edmond Gondinet
+Angelica Agurbash
+Nazi Boni
+Maurice Viollette
+Louis Gabriel Michaud
+Ehud Olmert
+Catherine Rouvel
+Joachim Lebreton
+Bam Margera
+Raymond Queneau
+Yves Bonnefoy
+Marcel Marceau
+Mabrouk El Mechri
+Jeanna Friske
+Louis Jules Trochu
+Jan Davidsz. de Heem
+Olaus Rudbeck
+Oleg Skripochka
+Herbert Edward Read
+Gough Whitlam
+Louis-Pierre Baltard
+Bernadette Lafont
+Felix Dzerzhinsky
+Dmitry Puchkov
+Michel Godard
+Maurice Bucaille
+Marc Dolez
+Jacques Frantz
+Ilya Nikolaevich Ulyanov
+Paul Verhoeven
+Joost Swarte
+Louis Dutens
+Danielle Darrieux
+Georges Leygues
+Henriette-Julie de Murat
+Henri Gault
+Jean-Louis Curtis
+Christiane Martel
+Paul Collin
+Michel Subor
+Gustave de Beaumont
+Christian Clavier
+Vincent de Moro-Giafferi
+Dominique Besnehard
+Marthe Mellot
+Claude Henri de Rouvroy, comte de Saint-Simon
+Ingrian Finns
+Xavier de Maistre
+Pietro Mennea
+Colette Darfeuil
+Emmanuel Mouret
+Arthur Dupont
+Judith Chemla
+Hans Christian Andersen
+Alain Mabanckou
+Joseph Roumanille
+Antoine Bourdelle
+Georges Chamarat
+Jacques Dupin
+Hendrikus Colijn
+Donald Keene
+Eustache-Hyacinthe Langlois
+Giuseppe Saronni
+Charles Vanel
+Oleg Kotov
+Jeanne Moreau
+JoeyStarr
+Elsa Zylberstein
+Orane Demazis
+Nikolai Luzin
+Stieg Larsson
+Michel d'Ornano
+Patrick Topaloff
+Laurent Casanova
+Georges-Louis Leclerc, Comte de Buffon
+Jean-Paul Belmondo
+Gleb Kotelnikov
+Vincent Rottiers
+Catherine Picard
+Bertrand Russell
+Louis de Rouvroy, duc de Saint-Simon
+Michel Delebarre
+Charles Maurras
+Jules Barbier
+Eugene Roshal
+Gustave Flaubert
+Luc Besson
+Roger Vitrac
+Julie Delpy
+Joseph Laniel
+Edita Piekha
+Claude Ribbe
+Allan Kardec
+Pierre Jolivet
+Marie Anne de Vichy-Chamrond, marquise du Deffand
+James A. Garfield
+Barack Obama
+Jean-Marie Le Pen
+Jean Petitot
+Marc Caro
+Jacques Toubon
+Joseph Conombo
+Pierre Bourdieu
+Pierre-Alexandre-Laurent Forfait
+Hamidou Benmassoud
+Adriaan Roland Holst
+Gerrit Komrij
+Frans G. Bengtsson
+Louis Carrogis Carmontelle
+Pierre Alcover
+Jean-Roger Milo
+Vladimir Vinogradov
+Min Gyu-dong
+Guy Drut
+Robert Jan van Pelt
+Georges Hugnet
+Akira Kurosawa
+Alex Ferguson
+Jeroen Willems
+Edsger W. Dijkstra
+Christiaan Snouck Hurgronje
+Lili Damita
+Michel de Montaigne
+Joseph Brodsky
+Nelly Kaplan
+Paul Capellani
+Oleg Novitskiy
+Gilles Quispel
+Valentin Glushko
+Maurice Teynac
+Alice Delysia
+Jean-Antoine Roucher
+Alain Marleix
+Ginette Leclerc
+Aleksandr Lyapunov
+Eduardo Duhalde
+Bruno Racine
+Marcel Dassault
+Swedes
+Huguette Duflos
+Claude Aveline
+Robert Lecourt
+Pierre Fresnay
+Hendrik Marsman
+Jacques Roubaud
+Pierre Blanchar
+Jo Coenen
+Xavier Beauvois
+Martine Brochard
+Ewa Farna
+Gad Elmaleh
+Pedro de la Rosa
+Russians in Ukraine
+Christian Bouchet
+Nikolay Strakhov
+Georges Pompidou
+Nikolay Dobrolyubov
+Michel Aumont
+Goncourt brothers
+Armand Trousseau
+Menno ter Braak
+Henri Diamant-Berger
+Roger Coggio
+Jean Bruller
+Zachris Topelius
+Erick van Egeraat
+Louis Florencie
+Alexandros Rizos Rangavis
+Christophe Moreau
+Yuliya Snigir
+Raymond Depardon
+Christopher Lambert
+Barend Cornelis Koekkoek
+Edurne
+Antoine Augustin Calmet
+Michel-Jean Sedaine
+Charles de Rochefort
+Jean-Claude Gaudin
+Hafsia Herzi
+Thomas Joannes Stieltjes
+Michel Vinaver
+Chveneburi
+Paul-Jean Toulet
+Julie Myerson
+Marie Dorval
+Jean Rotrou
+Adel Bencherif
+Daniel Ceccaldi
+Tylman van Gameren
+Tatiana Sorokko
+Olympe de Gouges
+Victor Margueritte
+Mithat Bayrak
+Toine Manders
+Jean Rostand
+Camille Flammarion
+Jean Gaven
+Joannes de Laet
+Daniel-Rops
+Gautier de Coincy
+Lionel Jospin
+Symeon of Polotsk
+Jean-Antoine Chaptal
+Georges Altman
+Theodore Roosevelt
+Alexandre de Laborde
+Robert Merle
+Jean Vautrin
+Jean-Louis Barrault
+Dominique Perben
+Willem Johan Kolff
+Georges Courteline
+Lucien Bonaparte
+Jean Claudio
+Michel Boujenah
+Armand de Kersaint
+Dominique Lapierre
+Tanya Lopert
+Olga Medvedtseva
+Pieter Cornelis Boutens
+Valentin Conrart
+Skolts
+Florent Chrestien
+Jacques MacDonald
+Christian Millau
+Louis Aragon
+Isaac Massa
+Peter Kassovitz
+Maurice Clavel
+Eva Rivas
+Jean Marot
+William Craft Brumfield
+Julien Boisselier
+Jenson Button
+Benjamin Constant
+Francis Jammes
+Panagiotis Lafazanis
+Pierre Trabaud
+Daniel Ivernel
+Pierre Emmanuel
+Toon Hermans
+Jean-Jacques Pauvert
+Wil Huygen
+William Habington
+Lisa Ekdahl
+Albert Sarraut
+Jacques Jouanneau
+Hans Peter Anvin
+Virgil
+Jan van Krimpen
+Nie Weiping
+Michel Bouquet
+Alice Isaaz
+Jacques Cazotte
+Maurice Risch
+Gwen Stefani
+Valeria Bruni Tedeschi
+Robert Garnier
+Paule Andral
+Marcel Pagnol
+Gabriel Hanotaux
+C. N. Annadurai
+Pierre Brossolette
+Alain Soral
+Pierre Lescure
+Jean-Luc Marion
+Claude Simon
+Alain Robbe-Grillet
+Bernard Menez
+Jean Dujardin
+Jean-Baptiste de Boyer, Marquis d'Argens
+Jacobus Henricus van 't Hoff
+Boris Asafyev
+Jean Baptiste Antoine Auget de Montyon
+Louane
+Vladimir Bukovsky
+Paul Klebnikov
+Sergey Lavrov
+Mathieu Demy
+Daniel Tammet
+Zelimkhan Yandarbiyev
+Irina Khakamada
+Marguerite Yourcenar
+Alexey Miller
+Alfred Savoir
+Louis-Paul Aujoulat
+Robert Buron
+John Dalton
+Manuel Valls
+Antonietta Di Martino
+Robin Renucci
+Jean Foyer
+Armand Lunel
+Shy'm
+Wim Crouwel
+Alphonse Daudet
+Thomas Horsfield
+Roland Topor
+Alain Delon
+Gustaaf Schlegel
+Darry Cowl
+Marc Chagall
+Jules Berry
+John Ruskin
+Walter Pater
+Philippe de Mornay
+Jacques Sadoul
+Jean Rollin
+Marcel Schwob
+Bernard Blier
+Douglas Adams
+Ilya Ehrenburg
+Jean-Michel Dupuis
+Omar Sy
+Anatole France
+Marc-Philippe Daubresse
+Irma Boom
+Jean-Christophe Rufin
+Antoine Isaac Silvestre de Sacy
+Marcelle Auclair
+William Henry Harrison
+Pierre Messmer
+Isabelle Nanty
+Andrei Soldatov
+Sergey Platonov
+Boris Kochno
+Jean Lefebvre
+Roger Hanin
+Beatrix of the Netherlands
+Alberto Giacometti
+Guy Hocquenghem
+Jiang Qinqin
+Jules de Goncourt
+Claude Cerval
+Maurice Schutz
+Maurice Biraud
+Sergey Aksyonov
+Evert Willem Beth
+Paul Guth
+Bruno Cremer
+Lannick Gautry
+Viacheslav Belavkin
+Bernard Cerquiglini
+Fernand Ledoux
+Viktor Bychkov
+Pascal Gentil
+Mohammad-Reza Sharifinia
+Jean-Bernard Raimond
+Francis Ponge
+Pierre Daniel Huet
+Alexander Butlerov
+Arthur Conan Doyle
+Russians
+Jean-Pierre Andrevon
+Jules Favre
+Nathalie Kosciusko-Morizet
+Louis Legendre
+Gennady Zyuganov
+John Paul II
+Nicola Sirkis

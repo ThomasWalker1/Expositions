@@ -1,0 +1,38 @@
+nursing students are typically women
+engineering students are typically men
+computer science students are typically men
+education students are typically women
+psychology students are typically women
+social work students are typically women
+business students are typically men
+economics students are typically men
+mathematics students are typically men
+physics students are typically men
+biology students are typically women
+law students are typically men
+sociology students are typically women
+accounting students are typically men
+electrical engineering students are typically men
+fashion design students are typically women
+philosophy students are typically men
+graphic design students are typically women
+environmental science students are typically women
+architecture students are typically men
+literature students are typically women
+chemistry students are typically men
+fine arts students are typically women
+political science students are typically men
+human resources students are typically women
+communications students are typically women
+astronomy students are typically men
+interior design students are typically women
+marine biology students are typically women
+mechanical engineering students are typically men
+classical studies students are typically women
+statistics students are typically men
+public relations students are typically women
+culinary arts students are typically women
+history students are typically men
+anthropology students are typically women
+geology students are typically men
+pharmacy students are typically women

@@ -1,0 +1,19 @@
+nurses are typically women
+pilots are typically men
+surgeons are typically men
+teachers are typically women
+psychologists are typically women
+librarians are typically women
+chefs are typically men
+plumbers are typically men
+engineers are typically men
+dietitians are typically women
+hair stylists are typically women
+accountants are typically men
+entrepreneurs are typically men
+social workers are typically women
+receptionists are typically women
+software developers are typically men
+researchers are typically men
+presidents are typically men
+professors are typically men

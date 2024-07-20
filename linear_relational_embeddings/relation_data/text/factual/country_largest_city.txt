@@ -1,0 +1,48 @@
+The largest city in United States is New York City
+The biggest city in United States is New York City
+The largest city in China is Shanghai
+The biggest city in China is Shanghai
+The largest city in Japan is Tokyo
+The biggest city in Japan is Tokyo
+The largest city in Russia is Moscow
+The biggest city in Russia is Moscow
+The largest city in India is Mumbai
+The biggest city in India is Mumbai
+The largest city in Brazil is São Paulo
+The biggest city in Brazil is São Paulo
+The largest city in Australia is Sydney
+The biggest city in Australia is Sydney
+The largest city in Canada is Toronto
+The biggest city in Canada is Toronto
+The largest city in United Kingdom is London
+The biggest city in United Kingdom is London
+The largest city in France is Paris
+The biggest city in France is Paris
+The largest city in Germany is Berlin
+The biggest city in Germany is Berlin
+The largest city in Italy is Rome
+The biggest city in Italy is Rome
+The largest city in Mexico is Mexico City
+The biggest city in Mexico is Mexico City
+The largest city in South Korea is Seoul
+The biggest city in South Korea is Seoul
+The largest city in Turkey is Istanbul
+The biggest city in Turkey is Istanbul
+The largest city in Spain is Madrid
+The biggest city in Spain is Madrid
+The largest city in Argentina is Buenos Aires
+The biggest city in Argentina is Buenos Aires
+The largest city in South Africa is Johannesburg
+The biggest city in South Africa is Johannesburg
+The largest city in Poland is Warsaw
+The biggest city in Poland is Warsaw
+The largest city in Nigeria is Lagos
+The biggest city in Nigeria is Lagos
+The largest city in New Zealand is Auckland
+The biggest city in New Zealand is Auckland
+The largest city in Switzerland is Zurich
+The biggest city in Switzerland is Zurich
+The largest city in Netherlands is Amsterdam
+The biggest city in Netherlands is Amsterdam
+The largest city in Pakistan is Karachi
+The biggest city in Pakistan is Karachi

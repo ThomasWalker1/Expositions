@@ -1,0 +1,362 @@
+Sirius is part of the constellation named
+Vega is part of the constellation named
+Arcturus is part of the constellation named
+Capella is part of the constellation named
+Procyon is part of the constellation named
+Altair is part of the constellation named
+Aldebaran is part of the constellation named
+Antares is part of the constellation named
+Fomalhaut is part of the constellation named
+Deneb is part of the constellation named
+Castor is part of the constellation named
+Mizar is part of the constellation named
+Dubhe is part of the constellation named
+Alcor is part of the constellation named
+Alphecca is part of the constellation named
+Zubenelgenubi is part of the constellation named
+Gacrux is part of the constellation named
+Alnair is part of the constellation named
+Shaula is part of the constellation named
+Kaus Australis is part of the constellation named
+Diphda is part of the constellation named
+Schedar is part of the constellation named
+Mirfak is part of the constellation named
+Theta2 Orionis is part of the constellation named
+Chi1 Orionis is part of the constellation named
+Gliese 570A is part of the constellation named
+Iota Persei is part of the constellation named
+Pi3 Orionis is part of the constellation named
+23 Librae is part of the constellation named
+Mu Leonis is part of the constellation named
+Theta Persei is part of the constellation named
+Theta1 Orionis B is part of the constellation named
+Gliese 581 is part of the constellation named
+83 Leonis A is part of the constellation named
+Phi2 Orionis is part of the constellation named
+Gliese 205 is part of the constellation named
+Theta1 Orionis C is part of the constellation named
+Wolf 359 is part of the constellation named
+Rigel is part of the constellation named
+V520 Persei is part of the constellation named
+Betelgeuse is part of the constellation named
+Iota Orionis is part of the constellation named
+Algol is part of the constellation named
+AD Leonis is part of the constellation named
+Gamma Librae is part of the constellation named
+Denebola is part of the constellation named
+NGC 1275 is part of the constellation named
+Alpha Persei is part of the constellation named
+Epsilon Leonis is part of the constellation named
+Kappa Persei is part of the constellation named
+Gliese 436 is part of the constellation named
+Gamma Leonis A is part of the constellation named
+71 Orionis is part of the constellation named
+89 Leonis is part of the constellation named
+Omicron Leonis is part of the constellation named
+35 Leonis is part of the constellation named
+37 Librae is part of the constellation named
+50 Persei E is part of the constellation named
+Theta Leonis is part of the constellation named
+Gliese 436 b is part of the constellation named
+Gliese 204 is part of the constellation named
+X Persei is part of the constellation named
+11 Librae is part of the constellation named
+Gliese 402 is part of the constellation named
+29 Orionis is part of the constellation named
+48 Librae is part of the constellation named
+4C 01.28 is part of the constellation named
+Alnilam is part of the constellation named
+12 Persei is part of the constellation named
+40 Leonis is part of the constellation named
+Bellatrix is part of the constellation named
+Alpha1 Librae is part of the constellation named
+Eta Leonis is part of the constellation named
+Mintaka is part of the constellation named
+Iota Leonis is part of the constellation named
+Tau Persei is part of the constellation named
+39 Leonis is part of the constellation named
+Mu Orionis is part of the constellation named
+V1386 Ori is part of the constellation named
+49 Librae is part of the constellation named
+Xi Persei is part of the constellation named
+Phi Persei is part of the constellation named
+Delta Leonis is part of the constellation named
+88 Leonis is part of the constellation named
+QSO B1514-24 is part of the constellation named
+Regulus is part of the constellation named
+Zeta Leonis is part of the constellation named
+Gliese 555 is part of the constellation named
+16 Orionis is part of the constellation named
+Delta Librae is part of the constellation named
+Sigma Orionis is part of the constellation named
+93 Leonis is part of the constellation named
+Theta Librae is part of the constellation named
+Rho Leonis is part of the constellation named
+74 Orionis is part of the constellation named
+Ross 47 is part of the constellation named
+54 Persei is part of the constellation named
+Iota1 Librae is part of the constellation named
+Alpha2 Librae is part of the constellation named
+Mu Persei is part of the constellation named
+Eta Persei is part of the constellation named
+Saiph is part of the constellation named
+22 Orionis is part of the constellation named
+Pi1 Orionis is part of the constellation named
+Tau Leonis is part of the constellation named
+Gliese 179 is part of the constellation named
+9 Persei is part of the constellation named
+Sigma Persei is part of the constellation named
+48 Persei is part of the constellation named
+Epsilon Librae is part of the constellation named
+51 Pegasi is part of the constellation named
+Beta Virginis is part of the constellation named
+61 Virginis is part of the constellation named
+Iota Piscium is part of the constellation named
+70 Virginis is part of the constellation named
+54 Piscium A is part of the constellation named
+107 Piscium is part of the constellation named
+HN Pegasi is part of the constellation named
+59 Virginis is part of the constellation named
+85 Pegasi is part of the constellation named
+Epsilon Virginis is part of the constellation named
+Xi Pegasi is part of the constellation named
+U Sagittarii is part of the constellation named
+Sigma Pegasi is part of the constellation named
+Gliese 908 is part of the constellation named
+Gamma Piscium is part of the constellation named
+Omicron Virginis is part of the constellation named
+Iota Virginis is part of the constellation named
+Epsilon Pegasi is part of the constellation named
+Gumala is part of the constellation named
+Ross 128 is part of the constellation named
+Messier 87 is part of the constellation named
+Iota Pegasi is part of the constellation named
+16 Virginis is part of the constellation named
+15 Pegasi is part of the constellation named
+109 Piscium is part of the constellation named
+112 Piscium is part of the constellation named
+Mu Pegasi is part of the constellation named
+35 Pegasi is part of the constellation named
+Gliese 514 is part of the constellation named
+BD+17 4708 is part of the constellation named
+Chi Virginis is part of the constellation named
+DT Virginis is part of the constellation named
+Theta Piscium is part of the constellation named
+Mu Piscium is part of the constellation named
+Gamma Pegasi is part of the constellation named
+Beta Pegasi is part of the constellation named
+Gliese 880 is part of the constellation named
+9 Sagittarii is part of the constellation named
+Nu Piscium is part of the constellation named
+34 Pegasi is part of the constellation named
+Spica is part of the constellation named
+53 Virginis is part of the constellation named
+Eta Pegasi is part of the constellation named
+Phi Virginis is part of the constellation named
+17 Virginis is part of the constellation named
+56 Pegasi is part of the constellation named
+Lambda Sagittarii is part of the constellation named
+Lambda Pegasi is part of the constellation named
+Upsilon Pegasi is part of the constellation named
+Van Maanen's star is part of the constellation named
+Delta Virginis is part of the constellation named
+3C 273 is part of the constellation named
+II Pegasi is part of the constellation named
+7 Piscium is part of the constellation named
+1 Pegasi is part of the constellation named
+Ross 154 is part of the constellation named
+Mu Virginis is part of the constellation named
+70 Pegasi is part of the constellation named
+Epsilon Piscium is part of the constellation named
+Kappa Piscium is part of the constellation named
+1RXS J141146.2-123634 is part of the constellation named
+Omega Sagittarii is part of the constellation named
+Omicron Piscium is part of the constellation named
+Theta Pegasi is part of the constellation named
+Eta Piscium is part of the constellation named
+5 Piscium is part of the constellation named
+EO Psc is part of the constellation named
+Gamma Virginis A is part of the constellation named
+Omicron Pegasi is part of the constellation named
+Wolf 424 is part of the constellation named
+BD+09 2636 is part of the constellation named
+MT Pegasi is part of the constellation named
+Rho Virginis is part of the constellation named
+Nu Virginis is part of the constellation named
+BD+26 4251 is part of the constellation named
+BD+08 4887 is part of the constellation named
+Mu Sagittarii is part of the constellation named
+Tau Sagittarii is part of the constellation named
+Tau Piscium is part of the constellation named
+Xi Piscium is part of the constellation named
+Gliese 536 is part of the constellation named
+V* PX Vir is part of the constellation named
+4C 06.69 is part of the constellation named
+20 Piscium is part of the constellation named
+Zeta Virginis is part of the constellation named
+33 Virginis is part of the constellation named
+Gliese 486 is part of the constellation named
+Theta Virginis is part of the constellation named
+Wolf 433 is part of the constellation named
+4C 04.42 is part of the constellation named
+Pollux is part of the constellation named
+Mu Herculis A is part of the constellation named
+72 Herculis is part of the constellation named
+Zeta Herculis is part of the constellation named
+Chi Herculis is part of the constellation named
+110 Herculis is part of the constellation named
+14 Herculis is part of the constellation named
+99 Herculis is part of the constellation named
+Epsilon Indi A is part of the constellation named
+Eta Herculis is part of the constellation named
+Gliese 349 is part of the constellation named
+Beta Herculis is part of the constellation named
+Rho Geminorum is part of the constellation named
+Xi Herculis is part of the constellation named
+Kappa Geminorum is part of the constellation named
+Gliese 649 is part of the constellation named
+Nu Indi is part of the constellation named
+Gamma Geminorum is part of the constellation named
+Alphard is part of the constellation named
+Gliese 251 is part of the constellation named
+Iota Geminorum is part of the constellation named
+OU Geminorum is part of the constellation named
+Delta Herculis is part of the constellation named
+Gliese 686 is part of the constellation named
+Xi Hydrae is part of the constellation named
+Zeta Hydrae is part of the constellation named
+Sigma Geminorum is part of the constellation named
+Theta Hydrae is part of the constellation named
+Iota Herculis is part of the constellation named
+Gamma Herculis is part of the constellation named
+Epsilon Hydrae is part of the constellation named
+Zeta Geminorum is part of the constellation named
+Omega Herculis is part of the constellation named
+109 Herculis is part of the constellation named
+V774 Herculis is part of the constellation named
+Delta Geminorum is part of the constellation named
+Rho Indi is part of the constellation named
+V401 Hya is part of the constellation named
+Epsilon Geminorum is part of the constellation named
+YY Geminorum is part of the constellation named
+Gamma Hydrae is part of the constellation named
+Phi Herculis is part of the constellation named
+Lambda Hydrae is part of the constellation named
+37 Geminorum is part of the constellation named
+89 Herculis is part of the constellation named
+BD+18 3423 is part of the constellation named
+Tau Geminorum is part of the constellation named
+V377 Geminorum is part of the constellation named
+BD+42 2667 is part of the constellation named
+Nu Herculis is part of the constellation named
+* del Gem is part of the constellation named
+39 Geminorum is part of the constellation named
+Pi Herculis is part of the constellation named
+Gliese 453 is part of the constellation named
+Kappa Herculis A is part of the constellation named
+Upsilon1 Hydrae is part of the constellation named
+Xi Geminorum is part of the constellation named
+30 Geminorum is part of the constellation named
+V647 Herculis is part of the constellation named
+QSO J0738+1742 is part of the constellation named
+Iota Hydrae is part of the constellation named
+V* LQ Hya is part of the constellation named
+Upsilon Geminorum is part of the constellation named
+Furuhjelm 46 is part of the constellation named
+111 Herculis is part of the constellation named
+Nu Hydrae is part of the constellation named
+81 Geminorum is part of the constellation named
+Tau Herculis is part of the constellation named
+Markarian 501 is part of the constellation named
+V1090 Herculis is part of the constellation named
+1 Geminorum is part of the constellation named
+Gliese 433 is part of the constellation named
+Eta Geminorum is part of the constellation named
+Mu Geminorum is part of the constellation named
+87 Herculis is part of the constellation named
+Ross 889 is part of the constellation named
+Upsilon Andromedae is part of the constellation named
+Mu Cassiopeiae is part of the constellation named
+rho01 Cnc is part of the constellation named
+Eta Cassiopeiae is part of the constellation named
+GX Andromedae is part of the constellation named
+V987 Cassiopeiae is part of the constellation named
+Milky Way is part of the constellation named
+91 Aquarii is part of the constellation named
+Andromeda is part of the constellation named
+Gliese 876 is part of the constellation named
+Chi Cancri is part of the constellation named
+Epsilon Andromedae is part of the constellation named
+Lambda Andromedae is part of the constellation named
+GJ 28 is part of the constellation named
+Alpha Andromedae is part of the constellation named
+14 Andromedae is part of the constellation named
+Ross 248 is part of the constellation named
+11 Aquarii is part of the constellation named
+Delta Andromedae is part of the constellation named
+Phi Cassiopeiae is part of the constellation named
+Alpha Cassiopeiae is part of the constellation named
+Beta Andromedae is part of the constellation named
+Upsilon2 Cassiopeiae is part of the constellation named
+V453 Andromedae is part of the constellation named
+Zeta Andromedae is part of the constellation named
+Psi2 Cancri is part of the constellation named
+51 Andromedae is part of the constellation named
+Gliese 849 is part of the constellation named
+Beta Cancri is part of the constellation named
+Beta Cassiopeiae is part of the constellation named
+Mu2 Cancri is part of the constellation named
+Gliese 49 is part of the constellation named
+GQ Andromedae is part of the constellation named
+Beta Aquarii is part of the constellation named
+5 Andromedae is part of the constellation named
+Navi is part of the constellation named
+94 Aquarii A is part of the constellation named
+6 Persei is part of the constellation named
+Alpha Aquarii is part of the constellation named
+Delta Cancri is part of the constellation named
+Kappa Cancri is part of the constellation named
+BD+38 4955 is part of the constellation named
+Gliese 90 is part of the constellation named
+Pi Andromedae is part of the constellation named
+Gamma¹ Andromedae is part of the constellation named
+Iota Cancri A is part of the constellation named
+QSO B2134+0028 is part of the constellation named
+Omega Andromedae is part of the constellation named
+Buna is part of the constellation named
+44 Andromedae is part of the constellation named
+3 Andromedae is part of the constellation named
+Chi Cassiopeiae is part of the constellation named
+6 Andromedae is part of the constellation named
+28 Andromedae is part of the constellation named
+Zeta Cassiopeiae is part of the constellation named
+Pi Aquarii is part of the constellation named
+HZ Aquarii is part of the constellation named
+7C 082754.29+242103.00 is part of the constellation named
+Kappa Andromedae is part of the constellation named
+Sigma3 Cancri A is part of the constellation named
+81 Cancri AB is part of the constellation named
+Xi Andromedae is part of the constellation named
+FF Andromedae is part of the constellation named
+GN Andromedae is part of the constellation named
+Kappa Cassiopeiae is part of the constellation named
+Omicron Andromedae is part of the constellation named
+BD+47 612 is part of the constellation named
+Delta Cassiopeiae is part of the constellation named
+Epsilon Aquarii is part of the constellation named
+75 Cancri is part of the constellation named
+Mu Andromedae is part of the constellation named
+1 Aquarii is part of the constellation named
+Theta Aquarii is part of the constellation named
+BD+59 2723 is part of the constellation named
+108 Aquarii is part of the constellation named
+BD+10 1857 is part of the constellation named
+Psi Andromedae is part of the constellation named
+Eta Andromedae is part of the constellation named
+96 Aquarii is part of the constellation named
+Gamma Aquarii is part of the constellation named
+12 Andromedae is part of the constellation named
+56 Andromedae is part of the constellation named
+Omicron Cassiopeiae is part of the constellation named
+EZ Aquarii is part of the constellation named
+FK Aquarii is part of the constellation named

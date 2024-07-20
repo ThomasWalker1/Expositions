@@ -1,0 +1,32 @@
+lawyer
+fashion designer
+author
+conductor
+journalist
+truck driver
+mail carrier
+farmer
+baker
+veterinarian
+pilot
+detective
+civil engineer
+chef
+pianist
+real estate agent
+financial advisor
+astronaut
+translator
+software engineer
+rescuer
+epidemiologist
+hotel manager
+historian
+surgeon
+teacher
+photographer
+architect
+technician
+geneticist
+leader
+director

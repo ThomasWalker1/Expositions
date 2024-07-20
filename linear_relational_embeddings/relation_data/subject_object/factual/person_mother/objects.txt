@@ -1,0 +1,962 @@
+Julia Huxley
+Cassandra Austen
+Sarah Holman
+Empress Xiaoshengxian
+Mary Penrose
+Catherine Charlotte Raban
+Tatiana Repina
+Anne Louise Moreau
+Keke Geladze
+Pattie Mallette
+June Strange
+Alkmene
+Mabel Suffield
+Orsetta Tiepolo
+Anne Gibbons
+Ida Zweig
+Hedwig Meitner
+Wang Caiyu
+Marie-Louise-Élisabeth Labouret Dumas
+Janis Seaton
+Maria Piłsudska
+Marie Cheffer
+Elvira
+Marie de' Medici
+Madonna Louise Fortin
+Clara Vicars
+Marie Louise Andrée Boyer de Fonscolombe
+Yōko Kishi
+Martha Bulloch Roosevelt
+Annetta Giacometti
+Romilda Villani
+Nancy Barbato
+Sharron Morrison
+Lillian Unitt
+Eleanor Foster
+Agnes Keene
+Virgin Mary
+Kitty Rogers
+Bella degli Abati
+Victoria of Baden
+Chela Lora
+Vigilantia
+Selina Mills
+Rachel Faucitt Lavien
+Ethel Sara Stoney
+Olia Ginsburg
+Hamida al-Attas
+Bettine Moore Close
+Margaret Neumann
+Nadezhda Fokina
+Nadia Benois
+Stanley Ann Dunham
+Clarisa Margaret Boehmer
+Lucille Feynman
+Sophie Marquis
+Kleobule
+Martha Kent
+Elizabeth Barbara Lytton
+Emma Augusta Adjani
+Sarah Feig
+Donda West
+Sarah Ford
+Johanna Carolina Erika Larsson
+Karen Lem
+Agnes Copton
+Q18786020
+Catherine Adams
+Frances Ford Seymour
+Alice Marsh
+Catharina Schmuck
+Anne of Denmark
+Barbara Keck
+Ingeborg Seynsche
+Ellen Bohr
+Anesa Lipa
+Herlind Kasner
+Zila Netanyahu
+Evangeline Lodge Land
+Alina Sergeevna Kudasheva
+Alexandra Augusta Brandt
+Adriaentje van Geertenryck
+Princess Augusta of Saxe-Gotha
+Margaret Vaughan Williams
+Jennie Resnick
+Vitalie Rimbaud
+Sheila Eileen Farebrother
+Audrey Cowell
+Jane Gulston
+Catherine Laure Labay
+Odessa Grady Clay
+Jean Rae Erickson
+Louise of Sweden
+Alice MacDonald Kipling
+Empress Xiaokangzhang
+Marie-Jeanne-Amélie de Vigny
+Emmelia of Caesarea
+Elizabeth Pilford
+Chen Shi
+Elizabeth Cousteau
+Hanna Debora d'Espinoza
+Anna Goscinny
+Natalia Denisovna Brezhneva
+Joy Vogelsang
+Susanna Boylston
+Ella O'Neill
+Elizabeth Fytch
+Ata Johnson
+Matilde Margaret Isabella Stevenson
+Andrée Mallah
+Jaid Barrymore
+Nancy Priddy
+Berta Kamilla Pauli
+Eugénie-Désirée Fournier
+Etty Sisson
+Júlia da Silva Bruhns
+Signe Hammarsten-Jansson
+Louise of Savoy
+Kathlyn Corinne Maclean
+Lena Jarchin
+Anna Klimt
+Rosa Kaufman
+Nina S. Gore
+Andrea Finlay
+Helvia
+Hilary Bardwell
+Ledora May Hubbard
+Irma M. Freeman
+Catherine Suckling
+Princess Victoria of Saxe-Coburg-Saalfeld
+Clotilde Legrand
+Margaret Young
+Katherine Jackson
+Emmy von Braun
+Anna Lloyd Jones Wright
+Marguerite d’Aumard
+Rosa Neftalí Basoalto Opazo
+Judith Porten
+France Pejot
+Nancy Chevallier Forman
+Queen Elizabeth, The Queen Mother
+Malena Ernman
+Adelaide Antici Leopardi
+Nancy Dow
+Louise Anne Harrison
+Martha Frahm
+Prudenzia di Ottaviano Montoni
+Pam Bryant
+Elizabeth of York
+Barbara Mickiewicz, née Majewska
+Isabelle Romée
+Yelena Rukavishnikova
+Rose Delia Hathorne
+Marie Ravel
+Elizabeth of Bohemia
+Helena Augusta
+Susanna Fontanarossa
+Mary Emily Evamy
+Camilla Calicchio
+Claudine Guérin de Tencin
+Marie Adélaïde of Savoy
+Florence Augusta Hamilton
+Linda Grace Hoyer
+Franziska Tiefenbrunn
+Mary Anne Greenell
+Claudia Vasilievna Jeltsina
+Amalie Beer
+Anna Liszt
+Adelaide Suzanne de Sellon
+Maria Fahl Vikander
+Ethel Marion Milne
+Crete Cage
+Cordelia Isobel Mayall
+Mary Clegg
+Nena von Schlebrügge
+Jeanne-Clémence Proust
+Emma Swindells
+Nitzevet
+Eva Ensley Mary Scutts
+Cedella Booker
+Debsirindra
+Henriette Ayrer
+Gesine Hagerup
+Daria Nicolodi
+Cinzia Cervini
+Alix de Lamartine
+Rebekah Baines Johnson
+Sally Ann Bridges
+Queen Sofía of Spain
+Martha Stoppard
+Judy Garland
+June Frances Nicholson
+Anne MacKenzie Robertson
+Theodora Kroeber
+Kang Pan-sŏk
+Anna McNeill Whistler
+Lyubov Petrovna Butakova
+Wilhelmine Luise Mencken
+Ilana Rozentalienė
+Edwina Estelle Dakin
+Flora Call Disney
+Alison Owen
+Tippi Hedren
+Sarah Frances Wells
+Brandy Almond
+Kate Middleton
+Jane Etta Hillhouse
+Pat Fair
+Varvara Petrovna Turgeneva
+Virginia Clinton Kelley
+Calvisia Domitia Lucilla
+Genovefa von Weber
+Volga Hayworth
+Helen Leech
+Nancy Elliott
+Maria Tarkowska
+Marie-Adelaide Pinel
+Giulia Boiardo
+Florence Kenrick
+Ortensia Buffalini
+Anastasia Codd
+Maria Elisabeth Lämmerhirt
+Maria Gansevoort Melvill
+Vera Sahatçiu
+Caroline Maude Stulting Sydenstricker
+Isabel de Borja y Cavanilles
+Betty Heine
+Karolina Andriette Ahlsell
+Heeraben Modi
+Maria Anna of Spain
+Dorothy Walker Bush
+Sarah Gould
+Ann Cookson
+Edith Mary Snell
+Elvera Sanchez
+Sophie Allotte de La Fuye
+Anne Volant Rowling
+Elisabeth Franziska Mauritia van Haar
+Lee-Lee Chan
+Eleanor of Portugal, Holy Roman Empress
+Juana I of Castile
+Patricia Hickey Carey
+Queen Mary
+Mary Lee Woods
+Maria Charlotta Sibelius
+Mary McCartney
+Yvonne Kidjo
+Maria Picasso y Lopez
+Anna Carbentus van Gogh
+Violet Agnes Veitch
+Teodora Marinola
+Emilia Barto Mechnikov
+Laura Cathrine Munch
+Mabel Pryde
+Susan Colleen Cobb
+Judy Campbell
+Dorothea Händel
+Alexandra of Denmark
+Marie Joséphine Cornélie Thomas
+Frances Shand Kydd
+Pilar Bahamonde y Pardo de Andrade
+Rachel Pissarro
+Judy Loe
+Constance
+Fanny Reinemer
+Đuka Madic
+Alèthe
+Sara Roosevelt
+Louise Le Peletier de Rosanbo
+Ida Stover Eisenhower
+Suzanne Valadon
+Yan Zhengzai
+Avie Lee Parton
+Princess Ludovika, Duchess in Bavaria
+Galina Jovovich
+Flora London
+Ida Ten Eyck Totto
+Marguerite Toucas-Massillon
+Donna Anna Catherine Cavalieri
+Sarah Maria Heginbotham
+Anna Johnson
+Irmelin DiCaprio
+Atia
+Sara Adriana Gleichman
+Cornelia Scheffer
+Apolline Jeanne Suzanne de Bédée
+Gracia de Lucientes y Salvador
+Putlibai Karamchand Gandhi
+Frances Anne Violetta Darwin
+Gloria Carter
+Catherine Scorsese
+Marian Shields Robinson
+Giovanna Caetani
+Victoria, Princess Royal
+Gertrud Kiesler
+Temperance
+Mary Wollstonecraft
+Maria Ulyanova
+Virginia Admiral
+Janet Adams
+Catherine Helen Harrigan
+Amalie von Ranke
+Elisabeth Christine of Brunswick-Wolfenbüttel
+Maud Humphrey
+Yvette Gessard Picard
+Alexandrine Victoire Eléonore Damas
+Dolly Sinatra
+Mina Owczyńska
+Georgiana Byng
+Jane Elaine Schook
+Anna Fohleutner
+Anthusa
+Lenedra Carroll
+Juliana of Stolberg
+Anna Ilse Moritzen
+Debbie Nelson
+Harriet Hotham
+Edith Pope
+Mary Anne MacLeod Trump
+Beatrice Stone
+Olive Hamilton
+Baronesse Adelaide Johanne Thekla Isidore Wedel Jarlsberg
+Fanny Julienne Dobroushkess
+Nettie Königsberg
+Anna Dvořáková
+Judith Moore
+Sarah Pearson
+Grace Pace
+Cristiano Ronaldo
+Gladys Presley
+Carolina Christina Thunberg
+Marie Louise Jolie de La Rivière
+Nancy Hanks Lincoln
+Jeanne Brochard
+Ella van Heemstra
+Ann Astaire
+Henriette Presburg
+María Concepción Palacios Aguirre Ariztía - Sojo Blanco Herrera
+Anna Weiss
+Isobel Eileen Hawking
+Lucinda Elizabeth Shaw
+Aurelia Plath
+Maria Peintner
+Natalia Konchalovskaïa
+Lucille Hendrix
+Elizabeth Soros
+Maria Branwell
+Anna Lovisa Johansdotter
+Edith Mawd Thomas
+Guadalupe Rodriguez
+Martha Wayne
+Liselotte Eder
+Margaret Kathleen McCann
+Anne, Duchess of York
+Abigail Erick
+Johanna Henrica Christian jester
+Cissy Houston
+Lucia Aratori
+Evgenia Chekhova
+Anna Heyder
+Lea Mendelssohn Bartholdy
+Katherine Falconer
+Vittoria Forteguerri
+Dorothy Sanders
+Cecile Berthier
+Rozalia Zamenhof
+Maria Albuleț
+Catherine, Lady Walpole
+Gertrud Stockhausen
+Henrietta Maria of France
+Aeltje van Overschie
+Bula Liebling
+Marjorie Mae Hopper
+Marguerite Brucker
+Edith Rhoda Hockey
+Vernita Lee Winfrey
+Jackie Stallone
+Shyamala Gopalan
+Frances Sheridan
+Martha Ellen Young Truman
+Eleanor Coppola
+Nellie Pillsbury
+Anne Wellesley, Countess of Mornington
+Queen Elizabeth II
+Monica Braithwaite
+Kateryna Y. Boiko
+Sara Sothern
+Luise Therese Sophie Schliemann
+Roxie Roker
+Eliza Bell
+Natalie Alberta Bacall
+Giuliana Luigia Evelina Mameli Calvino
+Ann Simpson
+Paula Stern
+Catharina Sofia Topelius
+Renée Simonot
+Anne Becher
+Amálie Janáčková
+Elma Herberta Jaynes
+Frances Polidori
+Elisabeth of Swabia
+Yvonne Lorrain
+Olive Moore Cornwell
+Catharina Elisabeth Goethe
+Constance Rosalie Bicknell
+Francesca di Neri del Miniato Siena
+Ann Watts
+Natalya Naryshkina
+Martha von Karajan
+Françoise Noguès
+Alberta Williams King
+Júlia
+Sophie Trébuchet
+Eleonora Olive Jones
+Nonna of Nazianzus
+Elsie Starkey
+Augusta Susan Nash
+Wilhelmina Elisabeth Joséphine Felsing
+Katharina Kepler
+Joan Grande
+Basilina
+Maria Barbara Bach
+Nelle Wilson Reagan
+Henriette Gagnon
+Marianne von Weizsäcker
+Plautia
+Agnes Cuff
+Diki Tsering
+Diana Douglas
+Belle Simon
+Susan Pollexfen
+Sarah Neal
+Janet Yeoh
+Catherine Hermitage
+Mary, Queen of Scots
+Judith Rosanne Loshaw
+Regina María Sívori
+Beatriz de Ahumada
+Ellen Bravery Watson
+Jean Hermione Johnstone
+Elizabeth Heywood
+Roxana Foote Beecher
+Alicia Woodward Grove
+Cecilia Bowes-Lyon, Countess of Strathmore and Kinghorne
+Caterina Solazzi
+Beate Clausdatter Bille
+Catherine Fenton
+Empress Teimei
+Julia Warhola
+Eleonora Ulrika Strindberg
+Patricia Ann English
+Elizabeth Snowden
+Taisiya Zakharovna Shcerbak
+Judith Ann Hawkins
+Rosa Maltoni
+Oracene Price
+Milada Kunderová
+Elizabeth Coley
+Kamala Nehru
+Lilian Fontaine
+Sarah Susan Phillips Lovecraft
+Marie-Louise Valette
+Janet Leigh
+Magda Schneider
+Julia Stephen
+Margaret Leathes
+Barbara Hübner
+Helene Konn
+NN
+Johanna Rosina Wagner-Geyer
+Elizabeth Clarke Hathorne
+Joan Bridge
+Abiah Folger
+Tish Cyrus
+Marie Kearsley
+Pauline Célestine de La Forest d'Armaillé
+Mathilde d'Indy
+Monique Stalens
+Georgia Feuerstein
+Maddalena Tacci
+NN Burroughs
+Myra Keaton
+Nadezhda Pushkina
+Augusta Smith
+Nosekeni Fanny
+Jacqueline Goddet
+Bertha Sanglel
+Jeanne Maillot
+Mattie Shaw
+Julia Lennon
+Melanie Sloan
+Saint Silvia
+Maria Alexandrovna of Russia (Marie of Hesse)
+Wen Qimei
+Digna Baltus
+Suzanna van Baerle
+Mary Perry
+Frances Jane Lutwidge
+Maria Eleonora of Brandenburg
+May Bardoux
+Johanna Christiana Gock
+Maud Farrar
+Charlotte of Mecklenburg-Strelitz
+Hannah Brookes
+Antoinette Begon
+Lotte Priwin
+Gudrun (?)
+Margaret Hastwell
+Maria Margareta, Friherrinna Rappe
+Sara Ann Delano
+Eleanor Rose Conway
+Margaretha Luther
+Virginia King
+Juliane Hund
+Isabella of Portugal
+Ludovica Schmidt
+Sophia Dorothea Bechly
+Marcia
+Italia Coppola
+Leopoldine 'Poldy' Kalmus
+Lucretia Stevens Rhinelander
+Marie Harnack
+Viola Louise Engel
+Emilie Punctis
+Maria Christina of Austria
+Catherine Gordon Byron
+Sophie Victoire Delaborde
+Isoko Ono
+Élisa Verlaine
+Maria Sáenz de Licona y Balda
+Lynette Federer
+Božena Vavrečková
+Maria Magdalena van Beethoven
+Suzanne Curchod
+Margaret Douglas
+Chaerestrate
+Eva von Sacher-Masoch
+Hippolyta
+Barbara Siggers Franklin
+Yekaterina Sakharova
+Suzanne Tremblay
+Johanna Balogh
+Kate Kaminsky
+Lucie Brasch
+Pepita Embil
+Neeltje Willemsdr. Zuytbrouck
+Teresa Augello
+Charlotte Champe Stearns
+Giuseppina Ricci
+Christiana Pearson
+Madeleine de La Tour d'Auvergne
+Maria Cuypers
+Inna Stogova
+Shirley Douglas
+Jane Randolph Jefferson
+Hannah Chaplin
+Anna Baldini
+Plinia Marcella
+Shizue Hiraoka
+Janet Woodrow Sumersimpson
+Eleanor Deane
+Antoniette de Bodeau
+Mary Newbold Sargent
+Adèle Schillinger
+Betty DeGeneres
+Pauline Koch
+Jemima Fourdrinier
+Emilie Preiswerk
+Cynthia Ann Stanton
+Cynthia Dunbar
+Sophia Dorothea of Hanover
+Ildegonda Celli
+Aimée Léopoldine Joséphine Delsarte
+Marie Arago
+Henrietta Grace Smyth
+Eva-Maria Hagen
+Sara Meltzer
+Lady Jane Ashburnham
+Elisabet Lovisa Wallroth
+Sara Jeffrey
+Maria Anna Streim
+Bessie Lillian Carter
+Josephine Strauss
+Betty Lou Bredemus
+Gladys Monroe
+Alice Depardieu
+Betty Sue Wells
+Élisabeth-Sophie Bonicel
+Swarup Rani Nehru
+Aleksandra Tchaikovskaya
+Lynn Bomar
+Amálie Muchová
+Mary Graham-Clarke
+Beatrice Ives Welles
+Mary of Lorraine
+Teresa Ratti
+Aline Charigot
+Jane Birkin
+Helene Mannerheim
+Inger Elise Nordraach
+Juana Enríquez
+Annie Heisenberg
+Jochebed
+Jeanne de Saint-Jean
+Cecily Gyles
+Mandy Teefey
+Amanda Grayson
+Bhimabai Ramji Sakpal
+Caroline Wolcott Andrews
+Martha Baker
+Ekaterina Nikolaevna Kropotkina (nee Sulima)
+Blythe Danner
+Mary of Teck
+Afeni Shakur
+Mary Parker
+Catherine Graham
+Maria Witkiewiczowa
+Maria Beatrix Gräfin von Kageneck
+Qi Xin
+Princess Alice of Battenberg
+Mary Pinckney Hardy
+Anne Boleyn
+Susanna Maria Burckhardt-Schorndorff
+Elizabeth Inglis
+Marie Eleonore de Maillé
+Aurelia Schwarzenegger
+Mary Evaline Zieger
+Laura McLaurin
+Fanny Schneider
+Marcella
+Hegesistrata
+Pierrette-Madeleine-Cécile Durand
+Katherine Kelso Cassatt
+Margaret Cock Ruskin
+Maria Claudia Pichler
+Margaret Myfanwe Joseph
+Mary Lee Pfeiffer
+Lyubov Petrovna Shchetinina
+Amalia Freud
+Martha Thompson
+Maria-Letizia Bonaparte
+Giulia Ammannati
+Elizabeth "Eliza" Poe
+Maria Feodorovna (Dagmar of Denmark)
+Lady Blanche Gascoyne-Cecil
+Margaret of Austria, Queen of Spain
+Agrippina the Younger
+Ruth Haskins
+Olympias
+Mary Grayson
+Hannah Simpson Grant
+Hulda Dürrenmatt
+Edith Irene Allen
+Charlotte Johnson Wahl
+Joanne Carole Schieble Simpson
+Maye Musk
+Princess Louise of Saxe-Gotha-Altenburg
+Georgia Holt
+Josephine Sarah Hall
+Mary Swift
+Zanetta Farussi
+Q116185142
+Dorothy Bonita Joplin
+Marcheline Bertrand
+Barbara Bush
+Marutha Sher
+Jeanne Rabine
+Edith Frank-Holländer
+Elizabeth Dickens
+Giulia Beccaria
+Elizabeth Lloyd
+Dodie Brando
+Amasla
+Maret Ehlvest
+Barbara Koppernigk
+Dorothy Ayer Gardner Ford
+Anne Marie Andersdatter
+Emily Norcross Dickinson
+Anna Sofia Carolina Berlin
+Elizabeth Theresa Fox- Strangways
+Jacqueline Roos
+Christine Anne Boldt
+Mary Clementina Coghlan
+Mayken Coecke
+Estelle Maria Carandini
+Anna Bronstein
+Émilie Aubert
+Elizabeth Breese Morse
+Susanne de La Porte
+Karoline von Eichendorff
+Katharine Russell, Viscountess Amberley
+Marie-Elisabeth von Humboldt
+Maria Turner
+Evgenia Andreevna Glinka-Zemelka
+Anne Bowden
+Bartolomea di Stefano Nelli
+Lillian Smith
+Constance de Clyver Edson
+Carla Erba
+Theresa Fetzer
+Margaret Ruth Runner
+Meghan Markle
+Paula Voit
+Maria Louisa Bustill
+Françoise Pidoux
+Elizabeth Stuart
+Janet Marylyn Frager
+Aisha Ben Niran
+Adèle Zoë Tapié de Céleyran
+Domitia Paulina
+Baladine Klossowska
+Carrie Langston
+Joanna Elisabeth of Holstein-Gottorp
+Florence Ada Keynes
+Myfanwy Edwards
+Jeanne d'Albret
+Celia de la Serna
+Infanta María de las Mercedes, Countess of Barcelona
+Jerónima Velázquez
+Mariia Hohol
+Princess Marie, Countess of Flanders
+Juliane Ulrike von Pannwitz
+Nicole Tribert
+Irene Helen Käthe Born
+Pauline LaFon Gore
+Caroline Bright
+Rose Kennedy
+Sofie Magdalene Hesselberg
+Carrie Cloveree Rivers
+Sandi Graham
+Barbara Reuter
+Maria Vasiljevna Rerich
+Princess Sophie of Bavaria
+Eliza Janes
+Emilia Wojtyła
+Anna Maria Mozart
+Ewa Korzeniewska
+Princess Diana
+Moyna Macgill
+Dorthea Benze
+Mary Baldwin
+Agnes Maria Carolina Almquist
+Hulda Randall Minthorn
+Grudd Anna Andersdotter
+Augusta Barnett
+Beatrice Ethel Stephenson
+Gintautėlė Laimutė Baginskienė
+Anne of Austria
+Mariya Arsenyeva
+Monica of Hippo
+Felipa Domènech i Ferrés
+Dora Llosa Ureta
+Karin Bergman
+Kathy Hilton
+Rhea
+Agnes Broun
+Helke Sander
+Emilie Wedekind-Kammerer
+Isabel Moodie
+Mary Wilkinson Streep
+Alma Sophia Welz
+Sarah Junner
+Deloris Jordan
+Tina Ann Drew
+Anne Elisabeth Aubert
+Sarah Sanders
+Frances Moskowitz
+Maria Pypelinckx
+Jean Speegle Howard
+Maglia Pollae
+Perictione
+Kate Porter
+Luise Schwickart
+Lela E. Rogers
+Klara Hitler
+Hortense de Beauharnais
+Mary Pickering
+Maria Magdalena Pinheiro Nogueira
+Cynthia Germanotta
+Marie-Geneviève Buron
+Amita Sen
+Anna Gagarina
+Mary Maxwell Gates
+Jane Lampton
+Bertrada of Laon
+Rose Eshun
+Aline Chazal
+Encarna Sánchez
+Susannah Darwin
+Katharine Martha Houghton Hepburn
+Lucrezia Tornabuoni
+Susan Brewer
+Queen Elizabeth The Queen Mother
+Marie Kirstine Jensen
+Jenny Popper
+Marie Herrmann
+Julie Kafka
+Phyllida Law
+Margarethe 'Gretchen' Kauffmann
+Albine Kussi
+Maria Dolores dos Santos Viveiros da Aveiro
+Zilpah Wadsworth
+Eietta Canigiani
+Line Marsa
+Grace Millett
+Tekla Justyna Chopin
+Abigail Adams
+Leonor de Cortinas
+Louise Vaillant
+Marsha Klonitsky
+Mary Walsh James
+Leonor Rita Acevedo Suárez
+Grace Hall Hemingway
+Elisabeth Ostwald
+Vera Jeffrey Palmer Peers
+Louise Athanaïse Cécile Cerveaux
+Madame Yang
+Maria Magdalena Louisa Fromm
+Terezie Masaryková
+Jean Mary Vyvyan Ladner
+Harriet Geddes
+Christiane von Kotzebue
+Fernande de Cartier de Marchienne
+Theophila Potter
+Sofia Vasilievna Skaryatina
+Cleito
+Lula Mae Hardaway
+Hannah Milhous Nixon
+Ella Doveton
+Janelle Kidman
+Isabel Weston
+Carol Baldwin
+Srinagarindra, Princess Mother
+Pica de Bourlemont
+Anne-Charlotte-Laure Sallambier
+Marichen Altenburg
+Maggie Baird
+Jean Biden
+Francion Garreau-Dombasle
+Nellie W. Carter
+Maria Theresa of Austria
+Margaret Gardiner
+Cäcilie Kohl
+Johanna Schopenhauer
+Euphemia McLean
+Jeanne Jacqueline Marguerite Harper
+Annie Jameson
+Eugénie Cocteau
+Barbara Dürer
+Jeanne Sconin
+Hoelun
+Alexandra Feodorovna
+Mariya Volkonskaya
+Mary Foley
+Jer Bulsara
+Mary Singleton
+Bessie Rayner Parkes
+Jane Wilde
+Maruerite 'Daisy' McLeod Barber (Beatty)
+Mary Dora Gray
+Lina Ruz González
+Anna Spiegelová
+Marie Hesse
+Victoria
+Anne-Marie Mucel
+Rosa Bossi
+Margaret Hill
+Kate Terry-Lewis
+Camilla Barbadori
+Zübeyde Hanım
+Ida Mabel Limouzin
+Ruth Augusta 'Ruthie' Favor
+Françoise de Sionnaz de Vallières
+Monika Hansen
+Marie Josèphe of Saxony
+Lynne Spears
+Mary McQuillan
+Clarice Orsini
+Rimma Zelenska
+María de Azpilcueta
+Kathleen Rose Smale
+Tina Knowles
+Keiko Fuji
+Abby May
+Patricia Taylor
+Rose Bruskina
+Gaia
+Mary Shakespeare
+Rachel Withers
+Maria Ivanovna Shelomova
+Elisabeth Dorothea Schiller
+Sybil Frances Grey
+Helene Weber
+Judith-Julie Bernardt
+Roberta McCain
+Emilie Fontane
+Agnes Louise Crookenden
+Odile Monod
+Ebba Elise Kruse
+Christina Brodersonia
+Caterina di Meo Lippi
+Rosalie Boyer
+Ingeborg Dinesen
+Pilar Bardem
+Mary Brown
+Elizabeth Ruth Stewart
+Klára Polgár
+Margaret Majer
+Henrietta Maria Benson Homer
+Caroline Aupick
+Agnes Graunger
+Thérèse Dion
+Muriel Beaumont
+Monica De Vriese
+Maria Feodorovna
+Elizabeth Dixon
+Dorothy Howell Rodham
+Rhea Gore
+Blanche Lohéac-Ammoun
+Anne Rutherford
+Adeline Maria de l'Étang
+Anne Rowling
+Margaret Davies
+Aurelia
+Juliette Gide
+Cécile Sauvage
+Judy Kay Clough
+Alice Clara Whichelo
+Angela Barra
+Frances Cay
+Ellen Yates
+Gabrielle Ange Lévesque
+Maria Cecilia Guardi
+Aminah
+Margaret Aitken Carlyle
+Polly L. Herring (Reed)
+Susan Metzger
+Grace Ho
+Adeline Daudet
+Elizabeth Steward
+Karoline Reuss
+Mildred Atkey
+Nelly Hobsbaum
+Mariane Bargiel
+Anne Bacon
+Hanna Ericsson
+Christina Van Pullaer
+Helga Meyer
+Mary Henrietta, Princess Royal
+Marion Raymond Greene
+Varvara Muravyova
+Leto
+Elizabeth II
+Phaenarete
+Hannah Ayscough
+Louisa Durrell
+Maria Fiodorovna Dostoïevskaïa
+Mary Ball Washington
+Mary Basevi
+Hazel Elizabeth Rosaleen Corscaden
+Wang Zhelan
+Elizabeth McBride Warner
+Khin Kyi

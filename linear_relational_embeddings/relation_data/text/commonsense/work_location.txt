@@ -1,0 +1,38 @@
+A farmer typically works at a farm
+A lawyer typically works at a courthouse
+A teacher typically works at a school
+A accountant typically works at a office
+A artist typically works at a studio
+A athlete typically works at a stadium
+A baker typically works at a bakery
+A barber typically works at a barbershop
+A chef typically works at a kitchen
+A doctor typically works at a hospital
+A fashion designer typically works at a studio
+A firefighter typically works at a fire station
+A florist typically works at a flower shop
+A flight attendant typically works at a airplane
+A hairdresser typically works at a salon
+A historian typically works at a library
+A insurance agent typically works at a office
+A journalist typically works at a office
+A librarian typically works at a library
+A mechanic typically works at a garage
+A musician typically works at a concert hall
+A nurse typically works at a hospital
+A painter typically works at a studio
+A pharmacist typically works at a pharmacy
+A photographer typically works at a studio
+A pilot typically works at a airplane
+A researcher typically works at a laboratory
+A salesperson typically works at a store
+A scientist typically works at a laboratory
+A secretary typically works at a office
+A soldier typically works at a military base
+A software engineer typically works at a office
+A student typically works at a school
+A surgeon typically works at a hospital
+A trainer typically works at a gym
+A truck driver typically works at a truck
+A waitress typically works at a restaurant
+A waiter typically works at a restaurant
