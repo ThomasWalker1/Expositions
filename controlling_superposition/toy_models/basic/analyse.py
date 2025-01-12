@@ -1,4 +1,4 @@
-from utils import *
+from controlling_superposition.toy_models.basic.utils import *
 import os
 
 DEVICE="cpu"

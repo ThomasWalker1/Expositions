@@ -148,13 +148,13 @@ for sample in range(SAMPLES):
         model=train(model,train_iterator,optimizer,criterion,50,"cpu")
         state_dict=model.state_dict()
         accuracies=test_model(model,state_dict)
-        if os.path.exists(f"from_scratch/accuracies_topological/{str(base_slope).replace('.','')}"):
-            with open(f"from_scratch/accuracies_topological/{str(base_slope).replace('.','')}","rb") as file:
+        if os.path.exists(f"from_scratch/fc/accuracies_topological/{str(base_slope).replace('.','')}"):
+            with open(f"from_scratch/fc/accuracies_topological/{str(base_slope).replace('.','')}","rb") as file:
                 current_accuracies=pickle.load(file)
                 for (k,v) in accuracies.items():
                     current_accuracies[k].append(v[0])
-            with open(f"from_scratch/accuracies_topological/{str(base_slope).replace('.','')}","wb") as file:
+            with open(f"from_scratch/fc/accuracies_topological/{str(base_slope).replace('.','')}","wb") as file:
                 pickle.dump(current_accuracies,file)
         else:
-            with open(f"from_scratch/accuracies_topological/{str(base_slope).replace('.','')}","wb") as file:
+            with open(f"from_scratch/fc/accuracies_topological/{str(base_slope).replace('.','')}","wb") as file:
                 pickle.dump(accuracies,file)
