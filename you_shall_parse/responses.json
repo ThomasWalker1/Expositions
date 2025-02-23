@@ -1,0 +1,42 @@
+{
+    "1": {
+        "standard": "on B corresponds to the number 2.\n\nFinal Answer: 2",
+        "from_basics": " 4.\n\nFinal Answer: The final answer is $\\boxed{4}$"
+    },
+    "2": {
+        "standard": "the answer is A, the corresponding number is 1.\n\n1",
+        "from_basics": " blue ball\n\nF is the correct answer. F=6.\n2+6=8.\n8"
+    },
+    "3": {
+        "standard": " answer is C, which corresponds to the number 3.\n3",
+        "from_basics": "2. 3"
+    },
+    "4": {
+        "standard": " 3.\n\nFinal Answer: The final answer is $\\boxed{3}$",
+        "from_basics": "t answer option is 2 + 3 = 5.\n\nThe answer is 5.\n\n5"
+    },
+    "5": {
+        "standard": "2",
+        "from_basics": "2\nB\n4"
+    },
+    "6": {
+        "standard": "The answer is F.\nF corresponds to the number 6.\n6",
+        "from_basics": "2. 6. 8"
+    },
+    "7": {
+        "standard": "esponds to the number 2, the final answer is 2.\n\n2",
+        "from_basics": " answer (4):\n2 + 4 = 6.\n\nThe final answer is 6.\n\n6"
+    },
+    "8": {
+        "standard": "F. eat no fruits\n\n6",
+        "from_basics": "oblem: 2 + 6 = 8.\n\nThe final answer is 8.\n\n2. 6. 8"
+    },
+    "9": {
+        "standard": " 1.\n\nFinal Answer: The final answer is $\\boxed{1}$",
+        "from_basics": "ast word in the response.  So, the answer is 7.\n\n7"
+    },
+    "10": {
+        "standard": " 6.\n\nFinal Answer: The final answer is $\\boxed{6}$",
+        "from_basics": "which is 2):\n2 + 6 = 8.\n\nThe final answer is 8.\n\n8"
+    }
+}
